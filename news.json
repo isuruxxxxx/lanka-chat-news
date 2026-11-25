@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T17:06:32.254Z",
+  "updatedAt": "2026-11-25T17:55:34.382Z",
   "feeds": {
     "en:0": [
       {
@@ -17,13 +17,6 @@
         "ts": 1795621140000
       },
       {
-        "title": "Tens of thousands of public sector workers in Sri Lanka protest austerity budget - World Socialist Web Site",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aM1hCV1dJYjE2N05ZNGhEN1haODRRbDJmczJTRlhiUHo1MzdWcTN5akVEWUt2ZWVISVZyWEp1MTllVlAydjdpeFAtdHBMZTQyQUpTNFpKTDRsdFBlamNVQXE1Y3lMMFA3?oc=5",
-        "source": "World Socialist Web Site",
-        "pubDate": "Wed, 25 Nov 2026 03:58:39 GMT",
-        "ts": 1795579119000
-      },
-      {
         "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini - The Guardian",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVg4TG9pNTJCUFhKOTlmV0NTblI1SGF1QkFxcG14OVA4eWhzSUEwXzduRnZsbDVxVkg1Q055c3FxWHFGei15OHZXSVJ6MFI0MDVYdEZyeWtLZ2dQRXFQMmJrT1RkM29FSTBPaEZCamhZMmdlaXR2NVNYZ0c5aWwyTEpVT09BaV9UN3RuUWNXNW1GUjFOVUdMNF81Y19rOGpscDZpWnRSQkpJcElocU1rcDVzaFNqelVJQTNONnlHcw?oc=5",
         "source": "The Guardian",
@@ -31,18 +24,25 @@
         "ts": 1795607700000
       },
       {
-        "title": "Sri Lankan posts misrepresent old video as ministers criticising new anti-terror law - AFP Fact Check",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SXzF1d0R6aHk1bkduZTJpSjdwbDc4WG5SWkVoWnVpSkFMTFdUeWFYUm5uS05QZzgxTHJiMHBlRm96UnM5SFE3R2U4QVdGUVVlb1huNVJLckY?oc=5",
-        "source": "AFP Fact Check",
-        "pubDate": "Wed, 25 Nov 2026 04:38:50 GMT",
-        "ts": 1795581530000
+        "title": "Tens of thousands of public sector workers in Sri Lanka protest austerity budget - World Socialist Web Site",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aM1hCV1dJYjE2N05ZNGhEN1haODRRbDJmczJTRlhiUHo1MzdWcTN5akVEWUt2ZWVISVZyWEp1MTllVlAydjdpeFAtdHBMZTQyQUpTNFpKTDRsdFBlamNVQXE1Y3lMMFA3?oc=5",
+        "source": "World Socialist Web Site",
+        "pubDate": "Wed, 25 Nov 2026 03:58:39 GMT",
+        "ts": 1795579119000
       },
       {
-        "title": "Sri Lanka A vs India A at Doha, DP World Men's Asia Cup Rising Stars, Semi-Final, 26 Nov 2026 - BCCI",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzgwcjk3Qy1MS05yaC1RZ2NVbFVHak93LWliSkh2Nk52YWVzZDcyUkc1NHhMa0luWlBmWmktMXppenRIS2xvamVldElCZFl2d281bHc2WTZqN2Q4ZVNkWi0tMlhTNXR1cmE3NldydzlQTHJMWkV4cWlCWjg4cGNCZGR4X3RIWDBfbkNabjNoeFA?oc=5",
-        "source": "BCCI",
-        "pubDate": "Wed, 25 Nov 2026 16:43:33 GMT",
-        "ts": 1795625013000
+        "title": "Ships off Sri Lanka keep striking blue whales that never migrate away. IFAW surveys say the fix is measured in nautical miles - A-Z Animals",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMjlRZkVxV2RFdWhwSGoxejBrdlJxRGlzTXRiUjdEWmN6R3NCUHB4Vmx3ODB4T215OVF2MW5xdjJHUG0zMk82UnoyUnFsSTYwYkxXaGxoYnYyX1Z5NDhWa3VlM0dpTmFIdjQwUTdtbTR0SERzSlZmc1pzUXdqOC0takRoVDZJdS1tcGVodVJubHVCYXR1SWpBRFEwTUxIdlF3QzVEQW82ak1zWlA3M1A0QXBnU0RkXzkydlhpVzBGMzRMZlhSdnpGQWJmQWVoZE5lUUFPdEg4UC1hcHpkTzhhVmVmQjZIOXJwTUE?oc=5",
+        "source": "A-Z Animals",
+        "pubDate": "Wed, 25 Nov 2026 16:46:00 GMT",
+        "ts": 1795625160000
+      },
+      {
+        "title": "AI-generated video misleads Sri Lankans after heavy rains inundate Colombo - AFP Fact Check",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iRHIyWkxUSGpXWHpidk5oRDBHdW9mTVdRSEMtcDB1bEZuMExZUDNXWEt5NlJ3QURacU1rcEhwMmlaWFRkMnR0c1pIRVFQZzNBZkx0MFdZMWc?oc=5",
+        "source": "AFP Fact Check",
+        "pubDate": "Wed, 25 Nov 2026 10:09:13 GMT",
+        "ts": 1795601353000
       },
       {
         "title": "Press Release: FBI Expands Cooperation with Sri Lankan Law Enforcement to Combat Scam Centers Targeting Americans - U.S. Embassy in Sri Lanka (.gov)",
@@ -52,11 +52,11 @@
         "ts": 1794816000000
       },
       {
-        "title": "Ships off Sri Lanka keep striking blue whales that never migrate away. IFAW surveys say the fix is measured in nautical miles - A-Z Animals",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMjlRZkVxV2RFdWhwSGoxejBrdlJxRGlzTXRiUjdEWmN6R3NCUHB4Vmx3ODB4T215OVF2MW5xdjJHUG0zMk82UnoyUnFsSTYwYkxXaGxoYnYyX1Z5NDhWa3VlM0dpTmFIdjQwUTdtbTR0SERzSlZmc1pzUXdqOC0takRoVDZJdS1tcGVodVJubHVCYXR1SWpBRFEwTUxIdlF3QzVEQW82ak1zWlA3M1A0QXBnU0RkXzkydlhpVzBGMzRMZlhSdnpGQWJmQWVoZE5lUUFPdEg4UC1hcHpkTzhhVmVmQjZIOXJwTUE?oc=5",
-        "source": "A-Z Animals",
-        "pubDate": "Wed, 25 Nov 2026 16:46:00 GMT",
-        "ts": 1795625160000
+        "title": "Sri Lanka A vs India A at Doha, DP World Men's Asia Cup Rising Stars, Semi-Final, 26 Nov 2026 - BCCI",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzgwcjk3Qy1MS05yaC1RZ2NVbFVHak93LWliSkh2Nk52YWVzZDcyUkc1NHhMa0luWlBmWmktMXppenRIS2xvamVldElCZFl2d281bHc2WTZqN2Q4ZVNkWi0tMlhTNXR1cmE3NldydzlQTHJMWkV4cWlCWjg4cGNCZGR4X3RIWDBfbkNabjNoeFA?oc=5",
+        "source": "BCCI",
+        "pubDate": "Wed, 25 Nov 2026 16:43:33 GMT",
+        "ts": 1795625013000
       },
       {
         "title": "Geopolitical Factors Shaping Sri Lanka’s Critical Minerals Prospects – Analysis - Eurasia Review",
@@ -73,14 +73,85 @@
         "ts": 1795604137000
       }
     ],
-    "en:1": [],
+    "en:1": [
+      {
+        "title": "Sri Lanka Hands Record Wildlife Fine to Four Chinese Nationals Over Sinharaja Specimens - Nature World News",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTUwxX2dZQ0VVNW1SMy13VTlTMnN0dzZZQU1SRDJUSkhIX280THA2YnZpdXExQU05bmpGMWVYUHltZ3RxSDBfckRNcEM0SVRteldCS1Q1bzQwaFZXMWkycnRNeF9ncE5ZWkowODhSMUR1ZVFYZ21NZUI4TFJ5blRnVEtRSHFaeEhJc1pLTWlma1pMdnVvdklFTUI4U0ZFVEFQdVFoLUdjSzd4MGV1Y0tzWWtzMWxRbFhVdFQwMXVNUDk0OW1lR01wM2Zpd2JOOEpWOE1aakVZclRfZmFp?oc=5",
+        "source": "Nature World News",
+        "pubDate": "Tue, 24 Nov 2026 13:48:30 GMT",
+        "ts": 1795528110000
+      },
+      {
+        "title": "Sri Lanka A vs India A at Doha, DP World Men's Asia Cup Rising Stars, Semi-Final, 26 Nov 2026 - BCCI",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLTh1NjhGYTVJYmhZMFc4V0Z2Q2c4YzNjUzEwRFdULVQ3TXhFYXl1V054MUdGRGZDVGVmNTNDTGtwMDhzdjQ3alJKUklMY3BCeXdxS3M4ZnppLU04aXkwSUR2aVpnR2tfdXZsd3VFQjB1aWtobzlSZzlSZk5USnFfeDloeUI5eXQ3c3haVE9lSGM1LURCZ3lzMmhB?oc=5",
+        "source": "BCCI",
+        "pubDate": "Wed, 25 Nov 2026 16:00:44 GMT",
+        "ts": 1795622444000
+      },
+      {
+        "title": "Worcester student captains Europe in pioneering global cricket tournament - Yahoo",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNGlCSzl1eFNrX2NRWHZNalJpdGduRG9NOWlPWHJxWHZfNjJOSkp4bmU1M1haY3ptT1kzU1drTV93dVpGZnlmeHZvTUZsWGgtM0I0QVFSUDdIMFBUWlVNVU8zUW1fdmRfWl9sV1JfM3YyQy1ONDlKVXdHSTBNbDFrdUNrQ3A4REFYczBsaWFlOUM4TmlxUGZv?oc=5",
+        "source": "Yahoo",
+        "pubDate": "Wed, 25 Nov 2026 05:00:00 GMT",
+        "ts": 1795582800000
+      },
+      {
+        "title": "Shiranthi Rajapaksa: Sri Lanka's former first lady arrested for alleged fraud - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WSWgtWWtfYjMtRVFYWGFVSHZHWjhqZ2FyRjRjWlZLMG5Kc2FHWDVJTGRQbnYyZGhMYXRPbzItVzNDY184UFJ1eF9ZRXhaNndnLTMxV1lUNTNpS0E?oc=5",
+        "source": "BBC",
+        "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+        "ts": 1791356400000
+      },
+      {
+        "title": "Sri Lankan rider makes historic debut at FEI Jumping World Challenge - Newswire",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUi1FQXVPejVYeFhjUXdxOWl0YUxOVC16N0tobDVJcUtUV0F5VGY1YTJ1LVlYYlI0RXE0SDN2azVnMWVPRlloR1NDV3M5Q2JfemFGaVEyMGJ6eDczaE5abTBzNzZyazZZaWlMTUhPM1FqdWtBRWVPd0xWOE1tbElZeFVhcWQ3ZXFfMHU2QUxldVFweS1uRE84RnNETWxwdkVTQXpSdFRMWQ?oc=5",
+        "source": "Newswire",
+        "pubDate": "Wed, 25 Nov 2026 08:15:54 GMT",
+        "ts": 1795594554000
+      },
+      {
+        "title": "WFP warning becomes a reality for millions as Middle East crisis pushes poorest families further into hunger - UN World Food Programme",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTWY2ZkR3d2pSNURDczVkOGl2bVZzYldHLXNqUHBGYndaNkxPUk1MRnNEYVlzU2ltZkhaaUladVpZOV9MQnZYbTk1ZTRSU0dkYUVqekJUX3p4cngzMkNDVFNrdklrUU92c1VlMndQMFd3MHdXUzRqdkFhbmhFWmxtWHQ5MEJEMTl2V0xVR1FBcmFUZXpnd1YtaGtPU3I2RFY1TVlsbWphbk5XeEZyV0dwQWJnVElTWlE1Tzhz?oc=5",
+        "source": "UN World Food Programme",
+        "pubDate": "Fri, 05 Jun 2026 07:00:00 GMT",
+        "ts": 1780642800000
+      },
+      {
+        "title": "Sri Lanka evacuates crew from Iranian navy vessel days after warship was destroyed by US - The Guardian",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHBJN2I0NDJGaFVUUl9nQzJVQ1ZvTjJ6SkFHQVV6aHZkUG9QUXktSm5yQ1VuTm9MdDlKQzBzRC1PWHg2U2QwLURpRURJSkpDaENUeG14X3R5SjBSUlBwTE84NDFfb1EzdWV3LTMtYkhscTNWektfcEZiYl9tcC1nSklwTzNUQUMyRUNnSVphRlNTRTVWREhTRDJ4TlNuOHc?oc=5",
+        "source": "The Guardian",
+        "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
+        "ts": 1772697600000
+      },
+      {
+        "title": "Cyclone Ditwah brings worst flooding in decades to Sri Lanka, killing hundreds - UN News",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wM0JyNFN6ekZ4OXVuWV9KSlQwZHd3WkM1MEIyajBFWXR1R2o1enFfVlQyUkgwX1htYkNuSlBHNFFuWXNwOE5pd3hheHZzQWxIVVY1a25CUQ?oc=5",
+        "source": "UN News",
+        "pubDate": "Sun, 30 Nov 2025 08:00:00 GMT",
+        "ts": 1764489600000
+      },
+      {
+        "title": "Doctors remove 3.1kg stone from man's bladder and claim record - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HcnZuRFZTdktjVm1CaVhDNERLZnRyZ1lnUlAxYjdnYUNOeld1V2pBa1RjREdPdjEtLTFQSHlNUDZOZndWUVBYSXBLcUdsUVdSLTh6bjVaT0dkUQ?oc=5",
+        "source": "BBC",
+        "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
+        "ts": 1787036400000
+      },
+      {
+        "title": "Sri Lanka hold their nerve to reach Asia Cup final - ICC",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSUgtN3RHOFk3MHBrSGhoYXZNT3lwQUVBbExGc1JoNXRyWHR5Mjl2YXg3c1VqbVlTc0ZETFRGeGRnQzNDYzFSSFo2eEFPSFFNZU5vcmR6S3VacndxM1pESmhzaWluZEtQVkh3YUFwUy05cEFhaGlCNXI2VktBWEF2UENwNFlTeUVfMkRn?oc=5",
+        "source": "ICC",
+        "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
+        "ts": 1789110000000
+      }
+    ],
     "en:2": [
       {
-        "title": "Rawalpindi Test: Pakistan end two-year drought as Sri Lanka suffer historic low with four straight away series defeats - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaU9FenB0aW5wRHpmUC1BdXQ5aGI3Qkpyd3E2M2NuUjA0anBWN2JCcEttRUx0TThBVXFRaEY1c0IzcFQwZ0JFUkNKYWs1Qk5xQTZnSTBad0lmQzFTN1ItTWt3Q3p2Sk85QktZcGN1am1laXBPaVlXb0ZPMFBWX1hqSWtxT0NCNHJu?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Fri, 20 Nov 2026 12:14:00 GMT",
-        "ts": 1795176840000
+        "title": "UNBEATEN SRI LANKA WIN ICC WOMEN’S EMERGING NATIONS TROPHY 2026 - ICC",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGExaFBkTEpBYkFCQ2Q3WEJzWkVfME5PQkdzWGlhTWhmLXBLS0huSnhoRHFVaDRNb25QZVBIMXBjeXNuZElwOXlQYnZaSlMwSlhzQjcyN0JkZkNsNHVkN0E2NnlOdG52bjhYZ1A3MnV0X0ZUVFRMVGljY1lMMy1HQS1STjBhRkJ6ZE1UZ2RYM01CS2xoeFp0SDBuSU8tV1plWlZrX3VnSTFhQQ?oc=5",
+        "source": "ICC",
+        "pubDate": "Wed, 25 Nov 2026 10:18:33 GMT",
+        "ts": 1795601913000
       },
       {
         "title": "India A vs Sri Lanka A live streaming: When and where to watch Asia Cup Rising Stars 2026 semi-final - The Times of India",
@@ -90,6 +161,13 @@
         "ts": 1795621560000
       },
       {
+        "title": "India A opponents in 2026 Asia Games Rising Stars: Who will Tilak Varma's men face in the semi-final? - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXlQU2ZDd293YndlSkVla1lJU3dYNnZrVnB4RGpQYm5WQWZ6RldCU0JZdzROZEpqTkpYS0xWSkJEaDhvQjZsUUo0UWJLMTdJNEpnWjI4OFJoekVLdG5DaUZ2Z3Z3eGV2eE5YLVo1R25ENVRKUUlKWmtuOVY2dFlybUdrcWxIMDA?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Tue, 24 Nov 2026 15:30:00 GMT",
+        "ts": 1795534200000
+      },
+      {
         "title": "Sri Lanka beat Ireland in Emerging Nations final - BBC",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04bUFXNUdzS3ZMczd0YndwekRqSnJLY1pEZnVpVGczcEdsa3pNNlBUYm5lWktoZDVYRFBTQ3BWUFliTzA1X1hGdG5fN1lvODQ5c3p4RjFMcHZaalBfVlFPNXNCUG1ya3c?oc=5",
         "source": "BBC",
@@ -97,11 +175,11 @@
         "ts": 1795596955000
       },
       {
-        "title": "India A opponents in 2026 Asia Games Rising Stars: Who will Tilak Varma's men face in the semi-final? - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXlQU2ZDd293YndlSkVla1lJU3dYNnZrVnB4RGpQYm5WQWZ6RldCU0JZdzROZEpqTkpYS0xWSkJEaDhvQjZsUUo0UWJLMTdJNEpnWjI4OFJoekVLdG5DaUZ2Z3Z3eGV2eE5YLVo1R25ENVRKUUlKWmtuOVY2dFlybUdrcWxIMDA?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Tue, 24 Nov 2026 15:30:00 GMT",
-        "ts": 1795534200000
+        "title": "Sri Lankan sprinter's Asian Games exclusion sparks online misinformation - AFP Fact Check",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03d2dCM3FuaTNXa2U4OVFpcXFUYXpIdW1SeVk1V3k2dkFoZzE1MHdDdlJEbjQ1X005UmloMEUzenVmM1JzM2J6dDBwTlU3T3Y2aWUyUVc2aVQ?oc=5",
+        "source": "AFP Fact Check",
+        "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT",
+        "ts": 1790319600000
       },
       {
         "title": "Sri Lanka Women vs Ireland Women - Women's Twenty20 Internationals, ICC ENT | Match Centre - Fox Sports",
@@ -111,13 +189,6 @@
         "ts": 1795601541000
       },
       {
-        "title": "How Zaheer Khan-backed Anchor Sports builds cricket's business in Europe - Business Standard",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd3BRenVwQXBmV3A2dENGZUJZUFRsdWZMU3pzb3EwZnJPQXJ3MkZodjJWNC1YcjhNbl9JWUtMZDE0am44WnQxYmNnZ3JPS21ocUljYXItZzVHV1NPZUV6SEFtOVNYdEVFb2VEblRWanJjTEYtdTlLR1FHSGFfdFFXNlBaaGNGR1l2RzRGRlR3SkpyR1FqbERxenAxTGhLcHRqUklMb0xsQ00waFpid045MEljYjJ1Ti1XNjg0elM5VTFZRUxWVWfSAcsBQVVfeXFMT3VDSGFQaXZxNHp2UFBaOUhZbE1aaUZFN3diazZFcW5GY2djTm9SZXdpVEJuQXNPTUJ0WXo1dFczU3VsRjRTWjBvWHVxVjRpc1NCT3BIck9EWVZvUFp4Z3hXQlJyekdPdVh0US1BUkNyMGo0cmZOTXBkM0lvekMzUUlyNldINjNYRXVQSkFoYXAyOWlOUDdZNDdBR0xfNmVUdXFaMFJwNThKTjhYb1c5aHQ1OURDc25VMk1FalFUQ0g2T1QwZ3dDNUQ5S0k?oc=5",
-        "source": "Business Standard",
-        "pubDate": "Mon, 23 Nov 2026 07:16:01 GMT",
-        "ts": 1795418161000
-      },
-      {
         "title": "Imesha Dulani, Sathya Sandeepani star as Sri Lanka beat Ireland to win Women's Emerging Nations Trophy - The Times of India",
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMGZfUGxOalplS2ticTdNek92OXVZRkZiMk53SmZPZm0tQzd0QjN3UEk2empUTElfYXlKUW1WRkZZaDNkbExRYlZYbWt3Z2dBaUhfVGM2Z3plY3h0TTk0bEVYZV9Vdkx3Y2x2eUo4LVc1Rm5pTThaLWNRUmVxYTNuZEZrMUtuZUFSN2VJRUxxMXE0dlkwY01iMlJtczVhd1h4ZVQySnFjNWEtMGJhc3RyRVJLTnQ0anZESU1Ua25yUms4Y1pVc3ppNU05RUZySHhObXZSYzlteTRLb0Y4RUxMa0hiM0I4MGlBMjBXTmdYNF9RM1VXRFljcVlVX1NQNjdOVkoxbExaRHNvQWs3Z2Q40gGUAkFVX3lxTE5PckpFaVRJUUs5d205NWdYQTMzemM4bGRhS3lqLTRsUFBmdzM1eDRMX0NCRkhQTERBU21uNDJBOHRzX3ByWDFGWmhJREczbGI4RXhBOTlxUlFONExnRnlnUTg0bHcyd001UEhjWlRvdG82UW83bldkU2xsQTlGVXY0Mk9uQTNrN2Z1eEh5cHRobGpXZjVxbnRlQnJUZjJ3R2FxYXVGcjVRdUZVaG1sSzhfU0NMVnExYlFVWjNpRHMxc2lpUXRobFFkXzk3WWtKd1VPZ3hwVVhfbmRHeDhkUHNOd05MdWRJZk5xdjM0cVh6OF9RSVV1SlYtdjBFbEcxZzhJWUppNFNNby1Jbkk3TzQ5d0xiZw?oc=5",
         "source": "The Times of India",
@@ -125,18 +196,11 @@
         "ts": 1795600500000
       },
       {
-        "title": "Pakistan vs Sri Lanka: Fakhar Zaman century propels hosts to three-wicket win in tri-series final - Sky Sports",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQalNsREdRU0d5OUlSZ2VZRzk2U3gzdUU5dUNpcHVIc3BwVnZ2ZmRNT2pqWlRZalBJSVkzaDZ6bk5ZVHd3bk5TNEZhNnBIQmlzWXZ0SnRNMTFVLUo0Wm12S2xiY0ZOOFVpV1p2MG1HYkN4VlFxNkJQVG9lU3lwbERnWnI3VE9yRjBFRjR1ZzhnUTdYSEMwOFZLbmY3VV90cU9fRjFXSXNTSFdFZjBJbVVfSzIxNDR2TzdpdlVwaURQTUVvanNXaDdGVE9kSHZSTDl5TmJEamcwU2V4eXhh?oc=5",
-        "source": "Sky Sports",
-        "pubDate": "Sat, 31 Oct 2026 07:00:00 GMT",
-        "ts": 1793430000000
-      },
-      {
-        "title": "Ireland Reach Emerging Nations Trophy Final Against Sri Lanka - Demokratis.co.id",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WUUotbTF3My1NODRhbjdQMHhBMVdsaFlVLWdIVHB0SDRsVEhFZFRTQ05FWnZsUjF3aWtqSDNtNGR1MnU4YkJqaDRqOXlndnZmdUVPZF9GUlNzemRuZjRMX29xY1Y?oc=5",
-        "source": "Demokratis.co.id",
-        "pubDate": "Wed, 25 Nov 2026 06:55:48 GMT",
-        "ts": 1795589748000
+        "title": "Scots beaten by Sri Lanka in second group fixture - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3k5LWdpQWlBM2lxUWJwYWRZSDVpbmtjamtWLTl3QWdwUDdyV3hBalNzRDlYVkhlOVAxZGhydk9RcHY5VzFJTEZjMmNIVVdENTZpLUhHNFlnSHJjVHppaXpYLTROcmE1cFhkNXFwQUF6TFZxZHdqQVlZRXhYWFFYZGo0UnQ?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
+        "ts": 1794556800000
       },
       {
         "title": "Worcester student captains Europe in pioneering global cricket tournament - Yahoo",
@@ -144,6 +208,13 @@
         "source": "Yahoo",
         "pubDate": "Wed, 25 Nov 2026 05:00:00 GMT",
         "ts": 1795582800000
+      },
+      {
+        "title": "'Unprofessional': Sanjay Manjrekar slams Sri Lanka’s antics in Colombo - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmZiNGlZOWRoRDJqX2xBOU5DMG1jdmgxN05hUWVTck1TQUY4ZnJFWUhUemdjbG5FYVY2Wnlfc2JRN3JPSENEcG9qT1B3X3pqdkZ2TzBpakR2QWk5YXAxUDVxM21SQi1OdjNITk5oWEhhT3lucHBTcm9EQWwzcEN4WmhNbmc4TkJoalR3SENOUS1YTEtt?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+        "ts": 1787641200000
       }
     ],
     "en:3": [
@@ -248,18 +319,18 @@
         "ts": 1795621140000
       },
       {
-        "title": "E-commerce and international trade in Sri Lanka: findings from a survey of 953 exporters and importers - ODI: Think change",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWmhEODdxXzlVb3IyRVUwbTdza0RsUDhNdF83VEZ3SXMtbkVad196VHNCUDBQc0ZWZTNvdmRoQTBYV3U4NXdxS3hOcmJNSnhvMkF0MkVicGVKUDNaVWhtanNEUk1wUllkOFNvSHVsTlM4V2I0dGlNVGtLdnh3VEJlSG9wTHd0bklsWEhzSHZBN29IaUd3VFFYTmctUktYZllkZGF5MVgxN2p3R1BFQXFUYnF1MXJoU2NRZDVZOUtLX2dHSV9DeDVvRDdQeGRzRzA?oc=5",
-        "source": "ODI: Think change",
-        "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
-        "ts": 1791356400000
-      },
-      {
         "title": "Sri Lanka Expo 2027 to highlight opportunities for international horticultural trade - Hortidaily",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM1hmRHU5d1J3OW9VZmhZSEFsWXplNXF1RzFCUVI1VVJzTDBpVnR0YndNeG9QRUhBaWprS3RjSFJXSFZDeWJuemNTTTJYY3M2VjhMcTRUajdmaGR6Nk56NlhwalV6UXpiN0swZWFod21MVU93V1BsSjBjSzZvaUhWcTdQdXhUX1puSDV2Y2JTbmRqQkMtUkY1bmxlMWluR1pGYmJycWtBVUp3S0tDWHBPOGNrM2Y1RkRVaHBUcWdpOFBxM3ExZjBr?oc=5",
         "source": "Hortidaily",
         "pubDate": "Tue, 24 Nov 2026 13:57:03 GMT",
         "ts": 1795528623000
+      },
+      {
+        "title": "E-commerce and international trade in Sri Lanka: findings from a survey of 953 exporters and importers - ODI: Think change",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWmhEODdxXzlVb3IyRVUwbTdza0RsUDhNdF83VEZ3SXMtbkVad196VHNCUDBQc0ZWZTNvdmRoQTBYV3U4NXdxS3hOcmJNSnhvMkF0MkVicGVKUDNaVWhtanNEUk1wUllkOFNvSHVsTlM4V2I0dGlNVGtLdnh3VEJlSG9wTHd0bklsWEhzSHZBN29IaUd3VFFYTmctUktYZllkZGF5MVgxN2p3R1BFQXFUYnF1MXJoU2NRZDVZOUtLX2dHSV9DeDVvRDdQeGRzRzA?oc=5",
+        "source": "ODI: Think change",
+        "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+        "ts": 1791356400000
       },
       {
         "title": "Sri Lanka invites Korean buyers, machinery suppliers to 2027 expo - The Korea Herald",
@@ -292,20 +363,6 @@
     ],
     "en:5": [
       {
-        "title": "Sri Lanka’s Growing Entertainment Scene: Streaming, Music Festivals, and Digital Culture - Substream Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdUNJVzdHMFpSWkp3SlRLdUhSMl9BNGxvWkVORmJMc2hJTFBNT3g5NXFhdHhSckJsdzBGQXc4NFB3RTlOQi1OUzBxM2x0T0h2enJCeGhoMHhqT2twV3pRblRDMjVzVGRWYy1aTHV3c2FFSloyRmZ6Nmk2QThIQ1oteFNoVV8xdEpQR1BIQ0t3N3YtOHVmLXY3YzZQTGQ3cF9heWxMR1lJRjJBZW90MloySDdtMlJFcTdiTHFWRnJMdG0?oc=5",
-        "source": "Substream Magazine",
-        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-        "ts": 1782975600000
-      },
-      {
-        "title": "Universal Entertainment Exits Sri Lanka Casino Project - World Casino News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnNrVjd0YmF1Nk42dDZ0bWNUV3pjRkpMVmdlT3V0REltVmc0THRTa0RfYVFra1NzendRV2FQcXdxaVZTWl83WVFKNThXSWtUdTZVU0I0bGlaNUhpZm9LbHlpbG5SYTY4Q2tiTGpiSnJESDl4bTRLOEMyTzdRV0VxU0Zxek1fWmdLWmlvZXNUbm1DM21iV0w4YVRJaUlRWkRYanIxVktLSQ?oc=5",
-        "source": "World Casino News",
-        "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT",
-        "ts": 1792134000000
-      },
-      {
         "title": "SIGN: End Cruel Elephant Chaining in Sri Lanka’s Festivals &amp; Tourism - Lady Freethinker",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2tsMl9ILXdNVUtIX1V6UnRzOVdxcldkaVNsUWEtNHFaR0lqWWJRaGJJVzg4TlBLTmc2VThWWWFlWGw3a3A4QXZNNHJ2dDB2SXdBUWh4UTVzdXBXVUlLOThQVExoWk5tdGdUYnRpTEQ2YU9JV05MWHlMd0taTmRLbDYxQzl0Sk1veFNSNXlVekdGdmRmSnc4STJWVlJ4QQ?oc=5",
         "source": "Lady Freethinker",
@@ -320,46 +377,60 @@
         "ts": 1795403092000
       },
       {
-        "title": "City Of Dreams Sri Lanka: Building South Asia’s Entertainment Hub - EconomyNext",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOakVQNGd1OW5XYU1ZNk1mSnZ0NEdyR01IQll0NUxQekcxaTdNOWhlSUZWakpDeGhqSVRwOWVfVFp3OFZQVF9QaHBtODBXTUgwdzNxVDlDeVhMTWR0Qkh0VmFyWXhHUjNtRDc5VTZiYlBXeUlyVEVPVzVnN2V5NElJRGdoNkplOUozXzBDWDIwZVM4dHIyX2tudkRLeXctclB4Qnc?oc=5",
-        "source": "EconomyNext",
-        "pubDate": "Thu, 17 Sep 2026 06:46:40 GMT",
-        "ts": 1789627600000
+        "title": "A LIVE DOUBLE U-TURN VOTE IN SRI LANKA UNLEASHES ANGER AND FORCES SOME TEAMS TO STAGE A COMEBACK, ON “THE AMAZING RACE,” WEDNESDAY, NOV. 4 - Paramount Press Express",
+        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWWs2aEZoejRMZjdMZ0FicjFOMGhMeHplQ2VIZ0xGdzNqUXY1Q1dUek5YcWttSTBCckdxQjFfRXlSbjB6cE92RVhkRzJhWXhjb0ZfLTQ1U0Nna0MxVlpXU0NtcTdCMHgwZ09JSEdBWjBpQTA1TnFXSGdIREluWUlTclBDV05QZG1hNFhEOGxoVHZLU184MFdZSVBHdS1RVVc0SFJpSnR0OUtDQXBobFoyYmhCemljakVBUWRpM1FBYzI0aDJCSDFHZE5OUXN0blZob0h3WWJPclh3Y2g0ZjZPam56eWtEVXppU2hhek1sSE5NU0V5V3dXRWJUODBMd1lXX3kyV1QtR0RFbzBuT0xCOTh4OGFwNVphMS1vQ3BJTVRrdUZ2QUhNLU9VMkRhWHVUX2VSUTVwY3VGbkVCYkprUWtZdWJIV0FrWU9paVNPd0NXZlE?oc=5",
+        "source": "Paramount Press Express",
+        "pubDate": "Thu, 29 Oct 2026 07:00:00 GMT",
+        "ts": 1793257200000
       },
       {
-        "title": "Daraz Unites 150+ Influencers and Three Leading Entertainment Personalities for Sri Lanka’s Biggest Shopping Campaign of 2026 - Colombo Gazette",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0toWUVnVGtaMURTend1eEtZbnM3U3Y3SW54RTY5Q190dFlwY0xCS3ZXa0NOYXEzQlNyYjNzbmhSY3lUQktxa2JWbDJEMGJKT0hORkRjRGR4aGFiUUszVGNsRlhua3Vzd2ZOUzA5dzB0OFU4MXBVbGxUckVrblJjOGlsWFN4NWF4ckJPMnhHWGhkc0pYMGx6MWx4SGtibHhXdklQRFlNQmhjXzZRaUZuNURQWE9QcTZnaHQ3c0lrUVhRY09qT29GR2l4dHpmQ29jbElBdE05elFfdU5qYjFHRzZhbFp5aVdBYkt2QS1BS19ld1k?oc=5",
+        "title": "Licensing system for music royalties temporarily suspended - Sri Lanka Mirror",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFBJSjRBNm5VdUp1SlAxeDVHem4wT0JHX0Z0WU1nSl9PcFF2ekVxSFQ0NkVkVV82cnAtSGxtczhHWmlGRXRybWd5eFROQ2pIUC1waFdNbzA0eUZfTUpQU200Z3RTQm5sSXBxaVktTUk5VWZtZHFFYTZZYmRCNC1IcENxd056LVVRS0x1TDVtbFN4TnJDMDlhbzJ2elllNU8tblIwdkw2OUVibDA1WlZv?oc=5",
+        "source": "Sri Lanka Mirror",
+        "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+        "ts": 1790578800000
+      },
+      {
+        "title": "Sri Lanka’s Ultimate Gaming Festival: HyperCon 2026 Set to Storm Colombo This August - Colombo Gazette",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTXhHdDNCc0owQ3ZrUjBMaDBhZjdYVkgzSXZFUVFYdVNUMm1pVkFGZk1CNmIzU3QzRER2RW9ZUjhwSmZFS2Iwd0tBMDdyaEtUVjloWTc5Nk1TbG9BWE9IVlFDcm4tMzR3UGltR0JnYkxFU2tSdW1MakYyamNIYmRhNXJaN3RSbm1CNnFYd2Rtei1hT25kS3BQOGd3ZnQyNF9ucmtNeEpZcEZkZDVuNnRfVGZVeXByRHEteXNrQg?oc=5",
         "source": "Colombo Gazette",
-        "pubDate": "Tue, 17 Nov 2026 04:46:22 GMT",
-        "ts": 1794890782000
+        "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "ts": 1783926000000
       },
       {
-        "title": "City of Dreams Sri Lanka – Oasis by the sea - IAG – Inside Asian Gaming",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uTkdrckJMTWxQMHFjeDhmRklMUHh5WFZGM19RNXJ6N0x3NHZqVkVsYjJORmp4cWdtTm9iSlRYWm5DQTBvV0lpTXNQNFJnd29CMlB6eXZLVXdwR2w1ei1YSjUtN0UxSWJxdFdLdm5neTdqeWJYT1Vmd2xoaw?oc=5",
-        "source": "IAG – Inside Asian Gaming",
-        "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT",
-        "ts": 1772092800000
+        "title": "Cinnamon Box Office ushers in a new era for Colombo’s entertainment scene - Island.lk",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTgxUlNFdW1YdzFlSDlTenI2OEdMNzQ5VmpFcEdocnRWSHpQSlh3TXpJcjRrODMyVV9GMi1XelFzWnYtVHZUTFRqZGRPTkpPQnNKX0NyVWdpOTE2dHl1UFAtNjk1VkhveklQUWJrS2U0bHlfcks1Z0h3VTBZa29NNWg3RWpoNkZVeEN6VkRHUklfbVJSWUE?oc=5",
+        "source": "Island.lk",
+        "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
+        "ts": 1786345200000
       },
       {
-        "title": "CMC cuts entertainment taxes; new Gazette issued - Newswire",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWd0QlZad2VQMWc4Q3o4WG43OW5acjRkODA0ZGRSUk1GdXVFdE0zaFJnaEJJX19EaldILU5KdnN1U0xTYUJkNVM3aGMwS1dhSXhMdDBfRTBCVlhJLTNmUXdZTlMweDY2NHFkTUZvWl92M2VlTmF4V3ZfXzNjNEc1Z25NajB3cl9EeXI0?oc=5",
+        "title": "The Shoppes at City of Dreams Sri Lanka Welcomes Scope Cinemas Multiplex as a Flagship Anchor Attraction - Newswire",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNDVDVTlqaTB5RXJta1pad2kyQVJidWZUV0lBdkNZLWZCMVg0Y0ZXRWgxNkhESTN6WnV5S2ktdS1ubk1KRUVRYkpmR21DNkRianVSUk5WYmdxdEpmQUhRZEFuaTgxVVlHOFF2bXAydkdkeThyMEJNZ0hCc2R6Tm9abnhmUUEwbnNRRUQzVFBTU3ZFcDJSYnhvX2o1MFNSLXZDQ2hPUGtFQzJDRmRzVFU1VWF3aTl1ZDh5RHpDVjBmVW9nb1Bod1hleUNJN2NEbUlSaTVEWQ?oc=5",
         "source": "Newswire",
-        "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
-        "ts": 1784185200000
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "ts": 1785740400000
       },
       {
-        "title": "Universal Entertainment exits Colombo Port City casino project - Focus Gaming News",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUYUZISVJvRkRtQnZXR1VUSUlvcGcwQ0ozbl94M29vU1JBX1F2M0w4TTJ5eWdWeVBBZjZJN0NrdXVGRVlENnU1RXlBSURNSlk4YUFVeWpLNG9HZ3NZUWs5UEhRdGlnYkFmS1Jybi1jOFFySWtnamc?oc=5",
-        "source": "Focus Gaming News",
-        "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT",
-        "ts": 1792134000000
+        "title": "ACPOSL suspends licensing activities until November AGM - Sri Lanka Mirror",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQam9fNTljTTNCSEdyOTBxQkpCY2hGRGxwTW5mZV9sbEtleDUxZjJVaEtlMlpUbGNKeENfQk5SMUZSWXpJTm9iNkhncVNGRndWOTJGZjZIdllSaEtXQ0dxS3RUMkZMSkJnWUU0Tld0RlRmZnVpMHFIaXlpTGh2QzNzYTg1XzZGWk1NX3F1b2FoV25pM25XUEotVWxLdERlWXNRNk1sYllCakIyZUU?oc=5",
+        "source": "Sri Lanka Mirror",
+        "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
+        "ts": 1791874800000
       },
       {
-        "title": "Top 5 Entertainment News: From Gil Gerard demise to Rashmika Mandanna's Sri Lanka trip sparking bachelore - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxONk4yVXZiZU85TGRVTWl5M0swODUwNk9TNHRJVXhQRi1sNjlkbDktWkVNRG50MWlPVEJmaXlNcWc0aktRMmllbDJReXVFbF9MUlZKZ0hGSklVUGFVTDMzMVpFNDYzMGE3dXJLUTJGTEFsd0RTUGlIcTV4SndkY3F0NjhDRWpaSS1kWV9lOTBNUTNmYXhJOFlOTkRKZ3MwNDJhZzNNNFpQbU5MQUF6dHBMSmVxblh2cjZDZC1YM2VwbkxhT3V4bzhWN1RQcmVUa1d5bHNUYjVZc2NZcjZtS1VKM0w1QnR6ck5OT05faE1jTU5IODNYckNXQ3BpcEp0TmI3Skh5R20ycEN3cWlPRkpCckF5Z0MwdW1hVVN1dDNqODFBNURIQWZmS3dqM04zcEU5enZwamVSUUxBbzRpbzItUHg3b3NlaFFZcXVOdHMzWW0yMzJyR0Z0dllYbk7SAeICQVVfeXFMTllXOWdqNjBmaUtkSjFvUGhBckJUak1TUmJZLVd3YWFXLTVWWnFaNllaRnRLakcza1dDTE5JVUpXRGxFOVN1NkxBa28yQjBVWEVjV0ZqcmhjMFBBR2JqeDVLYk5TTVljWGNUajF5MVkwc2lLRkJNU2JJbkF0Smlkd0tpbFlQVmw0amZJNnlQXzlUWFlqQXZybGRmRncwTlhCdzI5NUQyNUZwRFJIbTRtajk5bEY2R3p5REx2YVNHNG5sODlpTXpKeEJrcTBHSVdvMS1kd1pqUzRiMlAxSHBIeGpkVUU5bEU3SkpCcHhaeFFIdFZDbzF3dDlYWmNETVVraXd3SGJpckJaTDBqaXlTNFRqMU5mQ1F4ckh1WjM4ZUNJenZMNUVzNVVhUWRJV1hoWWdWdzVqeWdyX3J2TXdYVHo3X1hsOFRUdF94OHdOUHR3RExiVFJ5MElWZVZkaEx5N0pn?oc=5",
+        "title": "John Keells Group Opens Cinnamon Life at City of Dreams Sri Lanka, South Asia’s Largest Entertainment Hub - Hotel Online",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWt5bVBNWmQyV0pTUVVYV1Y2LU5IQWNoODh2eHJ5bWxmdFdaN1Q5am1fUW41eEFGbW5ZbkpiOERtNmhEdTAyNEVNV3R2MjdEandWaEFfcVpkU19hcDdNTXpvNHNSdGlJQ0pGVnhKeWV0enBSNnRZUWVlREZuZHVwZXU0cVVBMlNjcmNGN1hBRFFHNTByNmZDYV9DMHJzWmd3dW1QZ2hteVFOaHdSUkpwOTY3WlctZkgzbWV0ejNMTHk5QlRwZ2Z3RngyX003dHNmSXZJ?oc=5",
+        "source": "Hotel Online",
+        "pubDate": "Tue, 22 Oct 2024 07:00:00 GMT",
+        "ts": 1729580400000
+      },
+      {
+        "title": "After cricket, movies are source of entertainment in Sri Lanka: Muttiah Muralitharan - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSzBKQUYtcGNYel9BWldlT2tnNmVvSWszbkZDOUhxc0tyV2lIWWhRQXRHVElTRjFvbEVKdjczSlNrdUo4MnA2TE9Nd3E2azBIc1FoOGt1YWpfQzNxSnFjQjVueVpfTjJ3elJ2UENHRUlRN3FVMGtSZ3MyNFRKMDBWV0o0Nkd6Z1EyUUhaVmQzQXNDWlBpZzRJeWxNTUxEd2Y3MHVTZmdzcl9RUmxNTlZYRnBMcUxhMGtEOE1wTWVHYXdqU1Q4NEc5UFZSNHNrM09BZDFCOHFOb2dsR01ILVl4cER4Si1DMkFqbjgzQzNGQlBoUXpXUlEwZTNGU2NiX1JXc0I3S1VkSDZkdWPSAZACQVVfeXFMT1B4UDA5UHdSSnZEMGNzR1haTEhxeDdGYmNmUV9hbHZUdTRWNXg4TG9OV29qdkRzYUtYZ2xIQnJlWTMxSTdqTTRtNk9NNEZ5U0dhcXRKZnA5RjRYeEJXdnNLTm5zRXhndm05R2htLTAzanJtWmp2ZGVhTmNaZ2pyWVBkdGRZamQ0VHRzUmNUdzdwck9XMVlEcllGVUNfX1pScUVVMVpyN2lXNk00djVwY3A1cGJHWkVJSWR0bjg1d2hmUkZveVRBMVc5akgzYTZlbHlkaDFweE15NXNuNFpMMGVpVjZqeGNLVHBsN0FJMUUzN0R0MjE5RlNza2xIMXVkaTJoYmJtOElsMGR1eGZha04?oc=5",
         "source": "The Times of India",
-        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-        "ts": 1766044800000
+        "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+        "ts": 1701417600000
       }
     ],
     "si:0": [
@@ -378,13 +449,6 @@
         "ts": 1795621140000
       },
       {
-        "title": "Tens of thousands of public sector workers in Sri Lanka protest austerity budget - World Socialist Web Site",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aM1hCV1dJYjE2N05ZNGhEN1haODRRbDJmczJTRlhiUHo1MzdWcTN5akVEWUt2ZWVISVZyWEp1MTllVlAydjdpeFAtdHBMZTQyQUpTNFpKTDRsdFBlamNVQXE1Y3lMMFA3?oc=5",
-        "source": "World Socialist Web Site",
-        "pubDate": "Wed, 25 Nov 2026 03:58:39 GMT",
-        "ts": 1795579119000
-      },
-      {
         "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini - The Guardian",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVg4TG9pNTJCUFhKOTlmV0NTblI1SGF1QkFxcG14OVA4eWhzSUEwXzduRnZsbDVxVkg1Q055c3FxWHFGei15OHZXSVJ6MFI0MDVYdEZyeWtLZ2dQRXFQMmJrT1RkM29FSTBPaEZCamhZMmdlaXR2NVNYZ0c5aWwyTEpVT09BaV9UN3RuUWNXNW1GUjFOVUdMNF81Y19rOGpscDZpWnRSQkpJcElocU1rcDVzaFNqelVJQTNONnlHcw?oc=5",
         "source": "The Guardian",
@@ -392,18 +456,25 @@
         "ts": 1795607700000
       },
       {
-        "title": "Sri Lankan posts misrepresent old video as ministers criticising new anti-terror law - AFP Fact Check",
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SXzF1d0R6aHk1bkduZTJpSjdwbDc4WG5SWkVoWnVpSkFMTFdUeWFYUm5uS05QZzgxTHJiMHBlRm96UnM5SFE3R2U4QVdGUVVlb1huNVJLckY?oc=5",
-        "source": "AFP Fact Check",
-        "pubDate": "Wed, 25 Nov 2026 04:38:50 GMT",
-        "ts": 1795581530000
+        "title": "Tens of thousands of public sector workers in Sri Lanka protest austerity budget - World Socialist Web Site",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aM1hCV1dJYjE2N05ZNGhEN1haODRRbDJmczJTRlhiUHo1MzdWcTN5akVEWUt2ZWVISVZyWEp1MTllVlAydjdpeFAtdHBMZTQyQUpTNFpKTDRsdFBlamNVQXE1Y3lMMFA3?oc=5",
+        "source": "World Socialist Web Site",
+        "pubDate": "Wed, 25 Nov 2026 03:58:39 GMT",
+        "ts": 1795579119000
       },
       {
-        "title": "Sri Lanka A vs India A at Doha, DP World Men's Asia Cup Rising Stars, Semi-Final, 26 Nov 2026 - BCCI",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzgwcjk3Qy1MS05yaC1RZ2NVbFVHak93LWliSkh2Nk52YWVzZDcyUkc1NHhMa0luWlBmWmktMXppenRIS2xvamVldElCZFl2d281bHc2WTZqN2Q4ZVNkWi0tMlhTNXR1cmE3NldydzlQTHJMWkV4cWlCWjg4cGNCZGR4X3RIWDBfbkNabjNoeFA?oc=5",
-        "source": "BCCI",
-        "pubDate": "Wed, 25 Nov 2026 16:43:33 GMT",
-        "ts": 1795625013000
+        "title": "Ships off Sri Lanka keep striking blue whales that never migrate away. IFAW surveys say the fix is measured in nautical miles - A-Z Animals",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMjlRZkVxV2RFdWhwSGoxejBrdlJxRGlzTXRiUjdEWmN6R3NCUHB4Vmx3ODB4T215OVF2MW5xdjJHUG0zMk82UnoyUnFsSTYwYkxXaGxoYnYyX1Z5NDhWa3VlM0dpTmFIdjQwUTdtbTR0SERzSlZmc1pzUXdqOC0takRoVDZJdS1tcGVodVJubHVCYXR1SWpBRFEwTUxIdlF3QzVEQW82ak1zWlA3M1A0QXBnU0RkXzkydlhpVzBGMzRMZlhSdnpGQWJmQWVoZE5lUUFPdEg4UC1hcHpkTzhhVmVmQjZIOXJwTUE?oc=5",
+        "source": "A-Z Animals",
+        "pubDate": "Wed, 25 Nov 2026 16:46:00 GMT",
+        "ts": 1795625160000
+      },
+      {
+        "title": "AI-generated video misleads Sri Lankans after heavy rains inundate Colombo - AFP Fact Check",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iRHIyWkxUSGpXWHpidk5oRDBHdW9mTVdRSEMtcDB1bEZuMExZUDNXWEt5NlJ3QURacU1rcEhwMmlaWFRkMnR0c1pIRVFQZzNBZkx0MFdZMWc?oc=5",
+        "source": "AFP Fact Check",
+        "pubDate": "Wed, 25 Nov 2026 10:09:13 GMT",
+        "ts": 1795601353000
       },
       {
         "title": "Press Release: FBI Expands Cooperation with Sri Lankan Law Enforcement to Combat Scam Centers Targeting Americans - U.S. Embassy in Sri Lanka (.gov)",
@@ -413,11 +484,11 @@
         "ts": 1794816000000
       },
       {
-        "title": "Ships off Sri Lanka keep striking blue whales that never migrate away. IFAW surveys say the fix is measured in nautical miles - A-Z Animals",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMjlRZkVxV2RFdWhwSGoxejBrdlJxRGlzTXRiUjdEWmN6R3NCUHB4Vmx3ODB4T215OVF2MW5xdjJHUG0zMk82UnoyUnFsSTYwYkxXaGxoYnYyX1Z5NDhWa3VlM0dpTmFIdjQwUTdtbTR0SERzSlZmc1pzUXdqOC0takRoVDZJdS1tcGVodVJubHVCYXR1SWpBRFEwTUxIdlF3QzVEQW82ak1zWlA3M1A0QXBnU0RkXzkydlhpVzBGMzRMZlhSdnpGQWJmQWVoZE5lUUFPdEg4UC1hcHpkTzhhVmVmQjZIOXJwTUE?oc=5",
-        "source": "A-Z Animals",
-        "pubDate": "Wed, 25 Nov 2026 16:46:00 GMT",
-        "ts": 1795625160000
+        "title": "Sri Lanka A vs India A at Doha, DP World Men's Asia Cup Rising Stars, Semi-Final, 26 Nov 2026 - BCCI",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzgwcjk3Qy1MS05yaC1RZ2NVbFVHak93LWliSkh2Nk52YWVzZDcyUkc1NHhMa0luWlBmWmktMXppenRIS2xvamVldElCZFl2d281bHc2WTZqN2Q4ZVNkWi0tMlhTNXR1cmE3NldydzlQTHJMWkV4cWlCWjg4cGNCZGR4X3RIWDBfbkNabjNoeFA?oc=5",
+        "source": "BCCI",
+        "pubDate": "Wed, 25 Nov 2026 16:43:33 GMT",
+        "ts": 1795625013000
       },
       {
         "title": "Geopolitical Factors Shaping Sri Lanka’s Critical Minerals Prospects – Analysis - Eurasia Review",
@@ -457,11 +528,11 @@
         "ts": 1795582800000
       },
       {
-        "title": "A Sri Lankan man sought over £7 million from the UK Home Office for alleged detention injuries; surveilla - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMipwNBVV95cUxPNnY2U3I1b3dWTEV2VGU3S29KTVZydF91VlNUcjBhN1hwWTcxLXM1ME42aVRjN1FLb1gxZnFKYnpLZFN6Mk9kQktQVzB2ZTRjLV9leU9GWl9hQ0luc3FTc0Rpakw3dGVTbUNvZWRUYkVGMU10ckIyaWNpUG1BVFRYZjl4TVpfZVNKQTRSTHBGMUVxV2RlNU11TEZvMGFuSTJPd2lJZFlrWnM0blo2RmFIbnlaVWswVVFIdlU4cEVVaVl1ZDYyaEJ6eWRpam1qLTg3NUU4dHJQZFE0QlpVQzdWTmxmYk12S3JNdGRRbVNNSmZUMVVWUnRxVWJ2TXpTYXdPSkZMOV9oVmpOUW5udVpfMFRya1Q0emZEdHp2TDB0QkxRTTg3MTFfdDhGNHhnRk1IQmU0SGlTUVRmRW9lNlRQc3ktRDNxMEJ6aDFVYTVnQ2Y1czFXOHJmUzZWcTUtMTNDa3hOeHh6SU5rTGpsVGlGMVRKSm96YjJYWE5JX1FLN0RsMmNIVzlTUFlJdmxyQWRsN1JGWl9jTEFQUGd5b0RCLUsxVC1QQzjSAawDQVVfeXFMUFBVVlQtNlZMMGZLWjR4MWliTlNjNnJUMGJGX2VaWEtvTGZ5YlFsTUZnc1lfUm5GSTRmcmpCQlZlNjJjd0pxQ05aR1ZlTF83clFPRjF3RU5CWEdtY203N3pEeUdEbDIzanZNdlQ2MHdMODRqc0pyMjQ5WmJwZW1SQW5RcGlIU0NZMlM4SVUyMy1qTzRnWUhtb1liekliVTV1YUJlUEM5SXBvbEtGSVE4TmJhN1Vwc2xXZkNUcElUM09tYi0weDh1RTU3dDlYRzZmMkFYQS03Z3JEWTRhbVlRc0U4VXQ4dHVuRWJCUno5cjdwM2M4U1psRFRjX3d0NUNZZi02WERFdmItOHpYWjl1bkI2eHJQMkthWkdjTHZheGhFdWFaSHFnbDhwdl9uc1lpdXhVSS0wVXR5MDdBRmREdzBYYXhfRkF5cVVkQ0xpU2JoN1ZERmdVR3BJVEZZb1NuYkkwVlYzczdPQUN0RkVlLV9GLTd0cl90dHUtekhLNlh2OHRFOVB6eWxXU0wxRkpEM0hrTW9EUkU2bk1leUk2RG9EeEhyb2pGZVNKVUE?oc=5",
-        "source": "The Times of India",
-        "pubDate": "Mon, 23 Nov 2026 21:20:00 GMT",
-        "ts": 1795468800000
+        "title": "Shiranthi Rajapaksa: Sri Lanka's former first lady arrested for alleged fraud - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WSWgtWWtfYjMtRVFYWGFVSHZHWjhqZ2FyRjRjWlZLMG5Kc2FHWDVJTGRQbnYyZGhMYXRPbzItVzNDY184UFJ1eF9ZRXhaNndnLTMxV1lUNTNpS0E?oc=5",
+        "source": "BBC",
+        "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+        "ts": 1791356400000
       },
       {
         "title": "Sri Lankan rider makes historic debut at FEI Jumping World Challenge - Newswire",
@@ -469,13 +540,6 @@
         "source": "Newswire",
         "pubDate": "Wed, 25 Nov 2026 08:15:54 GMT",
         "ts": 1795594554000
-      },
-      {
-        "title": "Shiranthi Rajapaksa: Sri Lanka's former first lady arrested for alleged fraud - BBC",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WSWgtWWtfYjMtRVFYWGFVSHZHWjhqZ2FyRjRjWlZLMG5Kc2FHWDVJTGRQbnYyZGhMYXRPbzItVzNDY184UFJ1eF9ZRXhaNndnLTMxV1lUNTNpS0E?oc=5",
-        "source": "BBC",
-        "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
-        "ts": 1791356400000
       },
       {
         "title": "WFP warning becomes a reality for millions as Middle East crisis pushes poorest families further into hunger - UN World Food Programme",
@@ -492,27 +556,34 @@
         "ts": 1772697600000
       },
       {
-        "title": "\"We Said No\": Lanka Turned Down This US Request At Beginning Of Iran War - NDTV",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSTNPUnJwbjJkc0d6TVJiNFZpa1BHcndHZnI4NWp4ZnFlQm41dmg4NWp2UHhSTXRQTWFMM0lubVdmQ0x0Q3FFeHAxV3hnemtBOVlSSFlBRWFXQm5GNFljR09taGRJZFd2R0R4UG5uWFQ5WS0zZU9OOFUwZUdHaEJqdXRld0d4dVBOWXZkM3RLenA0cUhnYWtUeF9IbldxdEVKUXJ6MEZTTUlVa19FekdMWTRCdnR4QUtRSFNLSlNCU0ktZDdNa29BNWln0gHSAUFVX3lxTFBHWndBT2VhdGVXd0NLMnBWb2twYkVSRjRBOWFWRndENk9NRGNMM0ZtbVYzb29YVUh4R3NGMG56X0JBUzhiQ1ViOUliSmdlTHl2aU1hZHJLR0NIWXR4WXdCZ1g1cHFaYXFQWFBDaTdRS1VxT3MtdzktakZvR2VxUUNmUWJnVFdXNDktSnlkS3RlbFhiTHZfYzN2c0tqTU8ySW9wbGZrSUpqaVZoVjJLNzFCNXBtLV9NcVlKWS1CaU9qeS0xYVQ5SFBzWUE0UE9ZYWNGZw?oc=5",
-        "source": "NDTV",
-        "pubDate": "Fri, 20 Mar 2026 07:00:00 GMT",
-        "ts": 1773990000000
+        "title": "Cyclone Ditwah brings worst flooding in decades to Sri Lanka, killing hundreds - UN News",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wM0JyNFN6ekZ4OXVuWV9KSlQwZHd3WkM1MEIyajBFWXR1R2o1enFfVlQyUkgwX1htYkNuSlBHNFFuWXNwOE5pd3hheHZzQWxIVVY1a25CUQ?oc=5",
+        "source": "UN News",
+        "pubDate": "Sun, 30 Nov 2025 08:00:00 GMT",
+        "ts": 1764489600000
       },
       {
-        "title": "Pakistan to host Sri Lanka, England for tri-series action - ICC",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWJpRDdYNTNkQTA3LU0tYm9DWm1XT0tsanE1bGR4S0x4SnAzc0RiUlM0Vm5tZS1SaXJmYXlaaGF0REVEMFR6VmluVEIyRWZsVXVpQUpWZHAtR0xVY0pwd2lSaFp4M0N2cmpXeFdEQWQ1Qm1YOHJ5SGJJei03S2g1aTByNHNDUVRLLWIycERieUpOOFIxaWRpT0tfTWpHNHhjTGhINHQ5eXNwbVB6TWROZGE4QnY2VE9IN3FUcndPbVAwanNENnlobm13?oc=5",
+        "title": "Doctors remove 3.1kg stone from man's bladder and claim record - BBC",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HcnZuRFZTdktjVm1CaVhDNERLZnRyZ1lnUlAxYjdnYUNOeld1V2pBa1RjREdPdjEtLTFQSHlNUDZOZndWUVBYSXBLcUdsUVdSLTh6bjVaT0dkUQ?oc=5",
+        "source": "BBC",
+        "pubDate": "Tue, 18 Aug 2026 07:00:00 GMT",
+        "ts": 1787036400000
+      },
+      {
+        "title": "Sri Lanka hold their nerve to reach Asia Cup final - ICC",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSUgtN3RHOFk3MHBrSGhoYXZNT3lwQUVBbExGc1JoNXRyWHR5Mjl2YXg3c1VqbVlTc0ZETFRGeGRnQzNDYzFSSFo2eEFPSFFNZU5vcmR6S3VacndxM1pESmhzaWluZEtQVkh3YUFwUy05cEFhaGlCNXI2VktBWEF2UENwNFlTeUVfMkRn?oc=5",
         "source": "ICC",
-        "pubDate": "Wed, 19 Aug 2026 07:00:00 GMT",
-        "ts": 1787122800000
+        "pubDate": "Fri, 11 Sep 2026 07:00:00 GMT",
+        "ts": 1789110000000
       }
     ],
     "si:2": [
       {
-        "title": "Rawalpindi Test: Pakistan end two-year drought as Sri Lanka suffer historic low with four straight away series defeats - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaU9FenB0aW5wRHpmUC1BdXQ5aGI3Qkpyd3E2M2NuUjA0anBWN2JCcEttRUx0TThBVXFRaEY1c0IzcFQwZ0JFUkNKYWs1Qk5xQTZnSTBad0lmQzFTN1ItTWt3Q3p2Sk85QktZcGN1am1laXBPaVlXb0ZPMFBWX1hqSWtxT0NCNHJu?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Fri, 20 Nov 2026 12:14:00 GMT",
-        "ts": 1795176840000
+        "title": "UNBEATEN SRI LANKA WIN ICC WOMEN’S EMERGING NATIONS TROPHY 2026 - ICC",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNGExaFBkTEpBYkFCQ2Q3WEJzWkVfME5PQkdzWGlhTWhmLXBLS0huSnhoRHFVaDRNb25QZVBIMXBjeXNuZElwOXlQYnZaSlMwSlhzQjcyN0JkZkNsNHVkN0E2NnlOdG52bjhYZ1A3MnV0X0ZUVFRMVGljY1lMMy1HQS1STjBhRkJ6ZE1UZ2RYM01CS2xoeFp0SDBuSU8tV1plWlZrX3VnSTFhQQ?oc=5",
+        "source": "ICC",
+        "pubDate": "Wed, 25 Nov 2026 10:18:33 GMT",
+        "ts": 1795601913000
       },
       {
         "title": "India A vs Sri Lanka A live streaming: When and where to watch Asia Cup Rising Stars 2026 semi-final - The Times of India",
@@ -522,6 +593,13 @@
         "ts": 1795621560000
       },
       {
+        "title": "India A opponents in 2026 Asia Games Rising Stars: Who will Tilak Varma's men face in the semi-final? - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXlQU2ZDd293YndlSkVla1lJU3dYNnZrVnB4RGpQYm5WQWZ6RldCU0JZdzROZEpqTkpYS0xWSkJEaDhvQjZsUUo0UWJLMTdJNEpnWjI4OFJoekVLdG5DaUZ2Z3Z3eGV2eE5YLVo1R25ENVRKUUlKWmtuOVY2dFlybUdrcWxIMDA?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Tue, 24 Nov 2026 15:30:00 GMT",
+        "ts": 1795534200000
+      },
+      {
         "title": "Sri Lanka beat Ireland in Emerging Nations final - BBC",
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04bUFXNUdzS3ZMczd0YndwekRqSnJLY1pEZnVpVGczcEdsa3pNNlBUYm5lWktoZDVYRFBTQ3BWUFliTzA1X1hGdG5fN1lvODQ5c3p4RjFMcHZaalBfVlFPNXNCUG1ya3c?oc=5",
         "source": "BBC",
@@ -529,11 +607,11 @@
         "ts": 1795596955000
       },
       {
-        "title": "India A opponents in 2026 Asia Games Rising Stars: Who will Tilak Varma's men face in the semi-final? - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUXlQU2ZDd293YndlSkVla1lJU3dYNnZrVnB4RGpQYm5WQWZ6RldCU0JZdzROZEpqTkpYS0xWSkJEaDhvQjZsUUo0UWJLMTdJNEpnWjI4OFJoekVLdG5DaUZ2Z3Z3eGV2eE5YLVo1R25ENVRKUUlKWmtuOVY2dFlybUdrcWxIMDA?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Tue, 24 Nov 2026 15:30:00 GMT",
-        "ts": 1795534200000
+        "title": "Sri Lankan sprinter's Asian Games exclusion sparks online misinformation - AFP Fact Check",
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03d2dCM3FuaTNXa2U4OVFpcXFUYXpIdW1SeVk1V3k2dkFoZzE1MHdDdlJEbjQ1X005UmloMEUzenVmM1JzM2J6dDBwTlU3T3Y2aWUyUVc2aVQ?oc=5",
+        "source": "AFP Fact Check",
+        "pubDate": "Fri, 25 Sep 2026 07:00:00 GMT",
+        "ts": 1790319600000
       },
       {
         "title": "Sri Lanka Women vs Ireland Women - Women's Twenty20 Internationals, ICC ENT | Match Centre - Fox Sports",
@@ -543,13 +621,6 @@
         "ts": 1795601541000
       },
       {
-        "title": "How Zaheer Khan-backed Anchor Sports builds cricket's business in Europe - Business Standard",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd3BRenVwQXBmV3A2dENGZUJZUFRsdWZMU3pzb3EwZnJPQXJ3MkZodjJWNC1YcjhNbl9JWUtMZDE0am44WnQxYmNnZ3JPS21ocUljYXItZzVHV1NPZUV6SEFtOVNYdEVFb2VEblRWanJjTEYtdTlLR1FHSGFfdFFXNlBaaGNGR1l2RzRGRlR3SkpyR1FqbERxenAxTGhLcHRqUklMb0xsQ00waFpid045MEljYjJ1Ti1XNjg0elM5VTFZRUxWVWfSAcsBQVVfeXFMT3VDSGFQaXZxNHp2UFBaOUhZbE1aaUZFN3diazZFcW5GY2djTm9SZXdpVEJuQXNPTUJ0WXo1dFczU3VsRjRTWjBvWHVxVjRpc1NCT3BIck9EWVZvUFp4Z3hXQlJyekdPdVh0US1BUkNyMGo0cmZOTXBkM0lvekMzUUlyNldINjNYRXVQSkFoYXAyOWlOUDdZNDdBR0xfNmVUdXFaMFJwNThKTjhYb1c5aHQ1OURDc25VMk1FalFUQ0g2T1QwZ3dDNUQ5S0k?oc=5",
-        "source": "Business Standard",
-        "pubDate": "Mon, 23 Nov 2026 07:16:01 GMT",
-        "ts": 1795418161000
-      },
-      {
         "title": "Imesha Dulani, Sathya Sandeepani star as Sri Lanka beat Ireland to win Women's Emerging Nations Trophy - The Times of India",
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMGZfUGxOalplS2ticTdNek92OXVZRkZiMk53SmZPZm0tQzd0QjN3UEk2empUTElfYXlKUW1WRkZZaDNkbExRYlZYbWt3Z2dBaUhfVGM2Z3plY3h0TTk0bEVYZV9Vdkx3Y2x2eUo4LVc1Rm5pTThaLWNRUmVxYTNuZEZrMUtuZUFSN2VJRUxxMXE0dlkwY01iMlJtczVhd1h4ZVQySnFjNWEtMGJhc3RyRVJLTnQ0anZESU1Ua25yUms4Y1pVc3ppNU05RUZySHhObXZSYzlteTRLb0Y4RUxMa0hiM0I4MGlBMjBXTmdYNF9RM1VXRFljcVlVX1NQNjdOVkoxbExaRHNvQWs3Z2Q40gGUAkFVX3lxTE5PckpFaVRJUUs5d205NWdYQTMzemM4bGRhS3lqLTRsUFBmdzM1eDRMX0NCRkhQTERBU21uNDJBOHRzX3ByWDFGWmhJREczbGI4RXhBOTlxUlFONExnRnlnUTg0bHcyd001UEhjWlRvdG82UW83bldkU2xsQTlGVXY0Mk9uQTNrN2Z1eEh5cHRobGpXZjVxbnRlQnJUZjJ3R2FxYXVGcjVRdUZVaG1sSzhfU0NMVnExYlFVWjNpRHMxc2lpUXRobFFkXzk3WWtKd1VPZ3hwVVhfbmRHeDhkUHNOd05MdWRJZk5xdjM0cVh6OF9RSVV1SlYtdjBFbEcxZzhJWUppNFNNby1Jbkk3TzQ5d0xiZw?oc=5",
         "source": "The Times of India",
@@ -557,18 +628,11 @@
         "ts": 1795600500000
       },
       {
-        "title": "Pakistan vs Sri Lanka: Fakhar Zaman century propels hosts to three-wicket win in tri-series final - Sky Sports",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQalNsREdRU0d5OUlSZ2VZRzk2U3gzdUU5dUNpcHVIc3BwVnZ2ZmRNT2pqWlRZalBJSVkzaDZ6bk5ZVHd3bk5TNEZhNnBIQmlzWXZ0SnRNMTFVLUo0Wm12S2xiY0ZOOFVpV1p2MG1HYkN4VlFxNkJQVG9lU3lwbERnWnI3VE9yRjBFRjR1ZzhnUTdYSEMwOFZLbmY3VV90cU9fRjFXSXNTSFdFZjBJbVVfSzIxNDR2TzdpdlVwaURQTUVvanNXaDdGVE9kSHZSTDl5TmJEamcwU2V4eXhh?oc=5",
-        "source": "Sky Sports",
-        "pubDate": "Sat, 31 Oct 2026 07:00:00 GMT",
-        "ts": 1793430000000
-      },
-      {
-        "title": "Ireland Reach Emerging Nations Trophy Final Against Sri Lanka - Demokratis.co.id",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WUUotbTF3My1NODRhbjdQMHhBMVdsaFlVLWdIVHB0SDRsVEhFZFRTQ05FWnZsUjF3aWtqSDNtNGR1MnU4YkJqaDRqOXlndnZmdUVPZF9GUlNzemRuZjRMX29xY1Y?oc=5",
-        "source": "Demokratis.co.id",
-        "pubDate": "Wed, 25 Nov 2026 06:55:48 GMT",
-        "ts": 1795589748000
+        "title": "Scots beaten by Sri Lanka in second group fixture - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3k5LWdpQWlBM2lxUWJwYWRZSDVpbmtjamtWLTl3QWdwUDdyV3hBalNzRDlYVkhlOVAxZGhydk9RcHY5VzFJTEZjMmNIVVdENTZpLUhHNFlnSHJjVHppaXpYLTROcmE1cFhkNXFwQUF6TFZxZHdqQVlZRXhYWFFYZGo0UnQ?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
+        "ts": 1794556800000
       },
       {
         "title": "Worcester student captains Europe in pioneering global cricket tournament - Yahoo",
@@ -576,6 +640,13 @@
         "source": "Yahoo",
         "pubDate": "Wed, 25 Nov 2026 05:00:00 GMT",
         "ts": 1795582800000
+      },
+      {
+        "title": "'Unprofessional': Sanjay Manjrekar slams Sri Lanka’s antics in Colombo - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQmZiNGlZOWRoRDJqX2xBOU5DMG1jdmgxN05hUWVTck1TQUY4ZnJFWUhUemdjbG5FYVY2Wnlfc2JRN3JPSENEcG9qT1B3X3pqdkZ2TzBpakR2QWk5YXAxUDVxM21SQi1OdjNITk5oWEhhT3lucHBTcm9EQWwzcEN4WmhNbmc4TkJoalR3SENOUS1YTEtt?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
+        "ts": 1787641200000
       }
     ],
     "si:3": [
@@ -680,18 +751,18 @@
         "ts": 1795621140000
       },
       {
-        "title": "E-commerce and international trade in Sri Lanka: findings from a survey of 953 exporters and importers - ODI: Think change",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWmhEODdxXzlVb3IyRVUwbTdza0RsUDhNdF83VEZ3SXMtbkVad196VHNCUDBQc0ZWZTNvdmRoQTBYV3U4NXdxS3hOcmJNSnhvMkF0MkVicGVKUDNaVWhtanNEUk1wUllkOFNvSHVsTlM4V2I0dGlNVGtLdnh3VEJlSG9wTHd0bklsWEhzSHZBN29IaUd3VFFYTmctUktYZllkZGF5MVgxN2p3R1BFQXFUYnF1MXJoU2NRZDVZOUtLX2dHSV9DeDVvRDdQeGRzRzA?oc=5",
-        "source": "ODI: Think change",
-        "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
-        "ts": 1791356400000
-      },
-      {
         "title": "Sri Lanka Expo 2027 to highlight opportunities for international horticultural trade - Hortidaily",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM1hmRHU5d1J3OW9VZmhZSEFsWXplNXF1RzFCUVI1VVJzTDBpVnR0YndNeG9QRUhBaWprS3RjSFJXSFZDeWJuemNTTTJYY3M2VjhMcTRUajdmaGR6Nk56NlhwalV6UXpiN0swZWFod21MVU93V1BsSjBjSzZvaUhWcTdQdXhUX1puSDV2Y2JTbmRqQkMtUkY1bmxlMWluR1pGYmJycWtBVUp3S0tDWHBPOGNrM2Y1RkRVaHBUcWdpOFBxM3ExZjBr?oc=5",
         "source": "Hortidaily",
         "pubDate": "Tue, 24 Nov 2026 13:57:03 GMT",
         "ts": 1795528623000
+      },
+      {
+        "title": "E-commerce and international trade in Sri Lanka: findings from a survey of 953 exporters and importers - ODI: Think change",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWmhEODdxXzlVb3IyRVUwbTdza0RsUDhNdF83VEZ3SXMtbkVad196VHNCUDBQc0ZWZTNvdmRoQTBYV3U4NXdxS3hOcmJNSnhvMkF0MkVicGVKUDNaVWhtanNEUk1wUllkOFNvSHVsTlM4V2I0dGlNVGtLdnh3VEJlSG9wTHd0bklsWEhzSHZBN29IaUd3VFFYTmctUktYZllkZGF5MVgxN2p3R1BFQXFUYnF1MXJoU2NRZDVZOUtLX2dHSV9DeDVvRDdQeGRzRzA?oc=5",
+        "source": "ODI: Think change",
+        "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+        "ts": 1791356400000
       },
       {
         "title": "Sri Lanka invites Korean buyers, machinery suppliers to 2027 expo - The Korea Herald",
@@ -724,20 +795,6 @@
     ],
     "si:5": [
       {
-        "title": "Sri Lanka’s Growing Entertainment Scene: Streaming, Music Festivals, and Digital Culture - Substream Magazine",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdUNJVzdHMFpSWkp3SlRLdUhSMl9BNGxvWkVORmJMc2hJTFBNT3g5NXFhdHhSckJsdzBGQXc4NFB3RTlOQi1OUzBxM2x0T0h2enJCeGhoMHhqT2twV3pRblRDMjVzVGRWYy1aTHV3c2FFSloyRmZ6Nmk2QThIQ1oteFNoVV8xdEpQR1BIQ0t3N3YtOHVmLXY3YzZQTGQ3cF9heWxMR1lJRjJBZW90MloySDdtMlJFcTdiTHFWRnJMdG0?oc=5",
-        "source": "Substream Magazine",
-        "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-        "ts": 1782975600000
-      },
-      {
-        "title": "Universal Entertainment Exits Sri Lanka Casino Project - World Casino News",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdnNrVjd0YmF1Nk42dDZ0bWNUV3pjRkpMVmdlT3V0REltVmc0THRTa0RfYVFra1NzendRV2FQcXdxaVZTWl83WVFKNThXSWtUdTZVU0I0bGlaNUhpZm9LbHlpbG5SYTY4Q2tiTGpiSnJESDl4bTRLOEMyTzdRV0VxU0Zxek1fWmdLWmlvZXNUbm1DM21iV0w4YVRJaUlRWkRYanIxVktLSQ?oc=5",
-        "source": "World Casino News",
-        "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT",
-        "ts": 1792134000000
-      },
-      {
         "title": "SIGN: End Cruel Elephant Chaining in Sri Lanka’s Festivals &amp; Tourism - Lady Freethinker",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV2tsMl9ILXdNVUtIX1V6UnRzOVdxcldkaVNsUWEtNHFaR0lqWWJRaGJJVzg4TlBLTmc2VThWWWFlWGw3a3A4QXZNNHJ2dDB2SXdBUWh4UTVzdXBXVUlLOThQVExoWk5tdGdUYnRpTEQ2YU9JV05MWHlMd0taTmRLbDYxQzl0Sk1veFNSNXlVekdGdmRmSnc4STJWVlJ4QQ?oc=5",
         "source": "Lady Freethinker",
@@ -752,46 +809,60 @@
         "ts": 1795403092000
       },
       {
-        "title": "City Of Dreams Sri Lanka: Building South Asia’s Entertainment Hub - EconomyNext",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOakVQNGd1OW5XYU1ZNk1mSnZ0NEdyR01IQll0NUxQekcxaTdNOWhlSUZWakpDeGhqSVRwOWVfVFp3OFZQVF9QaHBtODBXTUgwdzNxVDlDeVhMTWR0Qkh0VmFyWXhHUjNtRDc5VTZiYlBXeUlyVEVPVzVnN2V5NElJRGdoNkplOUozXzBDWDIwZVM4dHIyX2tudkRLeXctclB4Qnc?oc=5",
-        "source": "EconomyNext",
-        "pubDate": "Thu, 17 Sep 2026 06:46:40 GMT",
-        "ts": 1789627600000
+        "title": "A LIVE DOUBLE U-TURN VOTE IN SRI LANKA UNLEASHES ANGER AND FORCES SOME TEAMS TO STAGE A COMEBACK, ON “THE AMAZING RACE,” WEDNESDAY, NOV. 4 - Paramount Press Express",
+        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNWWs2aEZoejRMZjdMZ0FicjFOMGhMeHplQ2VIZ0xGdzNqUXY1Q1dUek5YcWttSTBCckdxQjFfRXlSbjB6cE92RVhkRzJhWXhjb0ZfLTQ1U0Nna0MxVlpXU0NtcTdCMHgwZ09JSEdBWjBpQTA1TnFXSGdIREluWUlTclBDV05QZG1hNFhEOGxoVHZLU184MFdZSVBHdS1RVVc0SFJpSnR0OUtDQXBobFoyYmhCemljakVBUWRpM1FBYzI0aDJCSDFHZE5OUXN0blZob0h3WWJPclh3Y2g0ZjZPam56eWtEVXppU2hhek1sSE5NU0V5V3dXRWJUODBMd1lXX3kyV1QtR0RFbzBuT0xCOTh4OGFwNVphMS1vQ3BJTVRrdUZ2QUhNLU9VMkRhWHVUX2VSUTVwY3VGbkVCYkprUWtZdWJIV0FrWU9paVNPd0NXZlE?oc=5",
+        "source": "Paramount Press Express",
+        "pubDate": "Thu, 29 Oct 2026 07:00:00 GMT",
+        "ts": 1793257200000
       },
       {
-        "title": "Daraz Unites 150+ Influencers and Three Leading Entertainment Personalities for Sri Lanka’s Biggest Shopping Campaign of 2026 - Colombo Gazette",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0toWUVnVGtaMURTend1eEtZbnM3U3Y3SW54RTY5Q190dFlwY0xCS3ZXa0NOYXEzQlNyYjNzbmhSY3lUQktxa2JWbDJEMGJKT0hORkRjRGR4aGFiUUszVGNsRlhua3Vzd2ZOUzA5dzB0OFU4MXBVbGxUckVrblJjOGlsWFN4NWF4ckJPMnhHWGhkc0pYMGx6MWx4SGtibHhXdklQRFlNQmhjXzZRaUZuNURQWE9QcTZnaHQ3c0lrUVhRY09qT29GR2l4dHpmQ29jbElBdE05elFfdU5qYjFHRzZhbFp5aVdBYkt2QS1BS19ld1k?oc=5",
+        "title": "Licensing system for music royalties temporarily suspended - Sri Lanka Mirror",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVFBJSjRBNm5VdUp1SlAxeDVHem4wT0JHX0Z0WU1nSl9PcFF2ekVxSFQ0NkVkVV82cnAtSGxtczhHWmlGRXRybWd5eFROQ2pIUC1waFdNbzA0eUZfTUpQU200Z3RTQm5sSXBxaVktTUk5VWZtZHFFYTZZYmRCNC1IcENxd056LVVRS0x1TDVtbFN4TnJDMDlhbzJ2elllNU8tblIwdkw2OUVibDA1WlZv?oc=5",
+        "source": "Sri Lanka Mirror",
+        "pubDate": "Mon, 28 Sep 2026 07:00:00 GMT",
+        "ts": 1790578800000
+      },
+      {
+        "title": "Sri Lanka’s Ultimate Gaming Festival: HyperCon 2026 Set to Storm Colombo This August - Colombo Gazette",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTXhHdDNCc0owQ3ZrUjBMaDBhZjdYVkgzSXZFUVFYdVNUMm1pVkFGZk1CNmIzU3QzRER2RW9ZUjhwSmZFS2Iwd0tBMDdyaEtUVjloWTc5Nk1TbG9BWE9IVlFDcm4tMzR3UGltR0JnYkxFU2tSdW1MakYyamNIYmRhNXJaN3RSbm1CNnFYd2Rtei1hT25kS3BQOGd3ZnQyNF9ucmtNeEpZcEZkZDVuNnRfVGZVeXByRHEteXNrQg?oc=5",
         "source": "Colombo Gazette",
-        "pubDate": "Tue, 17 Nov 2026 04:46:22 GMT",
-        "ts": 1794890782000
+        "pubDate": "Mon, 13 Jul 2026 07:00:00 GMT",
+        "ts": 1783926000000
       },
       {
-        "title": "City of Dreams Sri Lanka – Oasis by the sea - IAG – Inside Asian Gaming",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uTkdrckJMTWxQMHFjeDhmRklMUHh5WFZGM19RNXJ6N0x3NHZqVkVsYjJORmp4cWdtTm9iSlRYWm5DQTBvV0lpTXNQNFJnd29CMlB6eXZLVXdwR2w1ei1YSjUtN0UxSWJxdFdLdm5neTdqeWJYT1Vmd2xoaw?oc=5",
-        "source": "IAG – Inside Asian Gaming",
-        "pubDate": "Thu, 26 Feb 2026 08:00:00 GMT",
-        "ts": 1772092800000
+        "title": "Cinnamon Box Office ushers in a new era for Colombo’s entertainment scene - Island.lk",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQTgxUlNFdW1YdzFlSDlTenI2OEdMNzQ5VmpFcEdocnRWSHpQSlh3TXpJcjRrODMyVV9GMi1XelFzWnYtVHZUTFRqZGRPTkpPQnNKX0NyVWdpOTE2dHl1UFAtNjk1VkhveklQUWJrS2U0bHlfcks1Z0h3VTBZa29NNWg3RWpoNkZVeEN6VkRHUklfbVJSWUE?oc=5",
+        "source": "Island.lk",
+        "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
+        "ts": 1786345200000
       },
       {
-        "title": "CMC cuts entertainment taxes; new Gazette issued - Newswire",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWd0QlZad2VQMWc4Q3o4WG43OW5acjRkODA0ZGRSUk1GdXVFdE0zaFJnaEJJX19EaldILU5KdnN1U0xTYUJkNVM3aGMwS1dhSXhMdDBfRTBCVlhJLTNmUXdZTlMweDY2NHFkTUZvWl92M2VlTmF4V3ZfXzNjNEc1Z25NajB3cl9EeXI0?oc=5",
+        "title": "The Shoppes at City of Dreams Sri Lanka Welcomes Scope Cinemas Multiplex as a Flagship Anchor Attraction - Newswire",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNDVDVTlqaTB5RXJta1pad2kyQVJidWZUV0lBdkNZLWZCMVg0Y0ZXRWgxNkhESTN6WnV5S2ktdS1ubk1KRUVRYkpmR21DNkRianVSUk5WYmdxdEpmQUhRZEFuaTgxVVlHOFF2bXAydkdkeThyMEJNZ0hCc2R6Tm9abnhmUUEwbnNRRUQzVFBTU3ZFcDJSYnhvX2o1MFNSLXZDQ2hPUGtFQzJDRmRzVFU1VWF3aTl1ZDh5RHpDVjBmVW9nb1Bod1hleUNJN2NEbUlSaTVEWQ?oc=5",
         "source": "Newswire",
-        "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
-        "ts": 1784185200000
+        "pubDate": "Mon, 03 Aug 2026 07:00:00 GMT",
+        "ts": 1785740400000
       },
       {
-        "title": "Universal Entertainment exits Colombo Port City casino project - Focus Gaming News",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBUYUZISVJvRkRtQnZXR1VUSUlvcGcwQ0ozbl94M29vU1JBX1F2M0w4TTJ5eWdWeVBBZjZJN0NrdXVGRVlENnU1RXlBSURNSlk4YUFVeWpLNG9HZ3NZUWs5UEhRdGlnYkFmS1Jybi1jOFFySWtnamc?oc=5",
-        "source": "Focus Gaming News",
-        "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT",
-        "ts": 1792134000000
+        "title": "ACPOSL suspends licensing activities until November AGM - Sri Lanka Mirror",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQam9fNTljTTNCSEdyOTBxQkpCY2hGRGxwTW5mZV9sbEtleDUxZjJVaEtlMlpUbGNKeENfQk5SMUZSWXpJTm9iNkhncVNGRndWOTJGZjZIdllSaEtXQ0dxS3RUMkZMSkJnWUU0Tld0RlRmZnVpMHFIaXlpTGh2QzNzYTg1XzZGWk1NX3F1b2FoV25pM25XUEotVWxLdERlWXNRNk1sYllCakIyZUU?oc=5",
+        "source": "Sri Lanka Mirror",
+        "pubDate": "Tue, 13 Oct 2026 07:00:00 GMT",
+        "ts": 1791874800000
       },
       {
-        "title": "Top 5 Entertainment News: From Gil Gerard demise to Rashmika Mandanna's Sri Lanka trip sparking bachelore - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxONk4yVXZiZU85TGRVTWl5M0swODUwNk9TNHRJVXhQRi1sNjlkbDktWkVNRG50MWlPVEJmaXlNcWc0aktRMmllbDJReXVFbF9MUlZKZ0hGSklVUGFVTDMzMVpFNDYzMGE3dXJLUTJGTEFsd0RTUGlIcTV4SndkY3F0NjhDRWpaSS1kWV9lOTBNUTNmYXhJOFlOTkRKZ3MwNDJhZzNNNFpQbU5MQUF6dHBMSmVxblh2cjZDZC1YM2VwbkxhT3V4bzhWN1RQcmVUa1d5bHNUYjVZc2NZcjZtS1VKM0w1QnR6ck5OT05faE1jTU5IODNYckNXQ3BpcEp0TmI3Skh5R20ycEN3cWlPRkpCckF5Z0MwdW1hVVN1dDNqODFBNURIQWZmS3dqM04zcEU5enZwamVSUUxBbzRpbzItUHg3b3NlaFFZcXVOdHMzWW0yMzJyR0Z0dllYbk7SAeICQVVfeXFMTllXOWdqNjBmaUtkSjFvUGhBckJUak1TUmJZLVd3YWFXLTVWWnFaNllaRnRLakcza1dDTE5JVUpXRGxFOVN1NkxBa28yQjBVWEVjV0ZqcmhjMFBBR2JqeDVLYk5TTVljWGNUajF5MVkwc2lLRkJNU2JJbkF0Smlkd0tpbFlQVmw0amZJNnlQXzlUWFlqQXZybGRmRncwTlhCdzI5NUQyNUZwRFJIbTRtajk5bEY2R3p5REx2YVNHNG5sODlpTXpKeEJrcTBHSVdvMS1kd1pqUzRiMlAxSHBIeGpkVUU5bEU3SkpCcHhaeFFIdFZDbzF3dDlYWmNETVVraXd3SGJpckJaTDBqaXlTNFRqMU5mQ1F4ckh1WjM4ZUNJenZMNUVzNVVhUWRJV1hoWWdWdzVqeWdyX3J2TXdYVHo3X1hsOFRUdF94OHdOUHR3RExiVFJ5MElWZVZkaEx5N0pn?oc=5",
+        "title": "John Keells Group Opens Cinnamon Life at City of Dreams Sri Lanka, South Asia’s Largest Entertainment Hub - Hotel Online",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWt5bVBNWmQyV0pTUVVYV1Y2LU5IQWNoODh2eHJ5bWxmdFdaN1Q5am1fUW41eEFGbW5ZbkpiOERtNmhEdTAyNEVNV3R2MjdEandWaEFfcVpkU19hcDdNTXpvNHNSdGlJQ0pGVnhKeWV0enBSNnRZUWVlREZuZHVwZXU0cVVBMlNjcmNGN1hBRFFHNTByNmZDYV9DMHJzWmd3dW1QZ2hteVFOaHdSUkpwOTY3WlctZkgzbWV0ejNMTHk5QlRwZ2Z3RngyX003dHNmSXZJ?oc=5",
+        "source": "Hotel Online",
+        "pubDate": "Tue, 22 Oct 2024 07:00:00 GMT",
+        "ts": 1729580400000
+      },
+      {
+        "title": "After cricket, movies are source of entertainment in Sri Lanka: Muttiah Muralitharan - The Times of India",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSzBKQUYtcGNYel9BWldlT2tnNmVvSWszbkZDOUhxc0tyV2lIWWhRQXRHVElTRjFvbEVKdjczSlNrdUo4MnA2TE9Nd3E2azBIc1FoOGt1YWpfQzNxSnFjQjVueVpfTjJ3elJ2UENHRUlRN3FVMGtSZ3MyNFRKMDBWV0o0Nkd6Z1EyUUhaVmQzQXNDWlBpZzRJeWxNTUxEd2Y3MHVTZmdzcl9RUmxNTlZYRnBMcUxhMGtEOE1wTWVHYXdqU1Q4NEc5UFZSNHNrM09BZDFCOHFOb2dsR01ILVl4cER4Si1DMkFqbjgzQzNGQlBoUXpXUlEwZTNGU2NiX1JXc0I3S1VkSDZkdWPSAZACQVVfeXFMT1B4UDA5UHdSSnZEMGNzR1haTEhxeDdGYmNmUV9hbHZUdTRWNXg4TG9OV29qdkRzYUtYZ2xIQnJlWTMxSTdqTTRtNk9NNEZ5U0dhcXRKZnA5RjRYeEJXdnNLTm5zRXhndm05R2htLTAzanJtWmp2ZGVhTmNaZ2pyWVBkdGRZamQ0VHRzUmNUdzdwck9XMVlEcllGVUNfX1pScUVVMVpyN2lXNk00djVwY3A1cGJHWkVJSWR0bjg1d2hmUkZveVRBMVc5akgzYTZlbHlkaDFweE15NXNuNFpMMGVpVjZqeGNLVHBsN0FJMUUzN0R0MjE5RlNza2xIMXVkaTJoYmJtOElsMGR1eGZha04?oc=5",
         "source": "The Times of India",
-        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-        "ts": 1766044800000
+        "pubDate": "Fri, 01 Dec 2023 08:00:00 GMT",
+        "ts": 1701417600000
       }
     ]
   }
