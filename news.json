@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-11-27T16:03:17.890Z",
+  "updatedAt": "2026-11-27T17:11:49.124Z",
   "feeds": {
     "en:0": [
-      {
-        "title": "SL A storm into final after Croospulle, Jayawardena tons - ESPN",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbnBwTmFlTHlRSjhKcXJpMFVXMURwaUNwRm9GMm12UndBUkdIUDVxT1BmSTQ3aDJDemlhcUhoVFp2ckpfeW1kenJNb2VpaEhDTGZYR2NMdzN6Y3NXZnFfMHNqc01tWE0tMnpheTNPM1VnaTBKTmxQY1YxTnNhZWZjTlRLYjBJaUVNWlhPN0JldFo2TFdMYnpwMFBmQlU0MXYyNUJtOWhYQVBnd1FTeS1yTWFfck5CT3J1cVl1MWIyclpxOS1rMGNwTmh6TC1yZw?oc=5",
-        "source": "ESPN",
-        "pubDate": "Fri, 27 Nov 2026 03:19:10 GMT",
-        "ts": 1795749550000
-      },
       {
         "title": "Murder suspect crashes into elephant while fleeing police in Sri Lanka - CBS News",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZW1icFFyUHlJOEdUQk05OVBUbl9qVkdoRU5ibEJzMjlsZ3dqZlNJaVBrUG1WZzloTVBkQ3gtLUthenNsbm05OGZocFJlcTg2dUk3M0dVTVNDT1NqRzFuZEZKT3U3Q21mMzJlMWRRYTRSVzFrUjZFQ0lEekxrZW96WEduQkVNV1NvR3lGRFh6Zw?oc=5",
         "source": "CBS News",
         "pubDate": "Fri, 27 Nov 2026 12:31:39 GMT",
         "ts": 1795782699000
+      },
+      {
+        "title": "SL A storm into final after Croospulle, Jayawardena tons - ESPN",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbnBwTmFlTHlRSjhKcXJpMFVXMURwaUNwRm9GMm12UndBUkdIUDVxT1BmSTQ3aDJDemlhcUhoVFp2ckpfeW1kenJNb2VpaEhDTGZYR2NMdzN6Y3NXZnFfMHNqc01tWE0tMnpheTNPM1VnaTBKTmxQY1YxTnNhZWZjTlRLYjBJaUVNWlhPN0JldFo2TFdMYnpwMFBmQlU0MXYyNUJtOWhYQVBnd1FTeS1yTWFfck5CT3J1cVl1MWIyclpxOS1rMGNwTmh6TC1yZw?oc=5",
+        "source": "ESPN",
+        "pubDate": "Fri, 27 Nov 2026 03:19:10 GMT",
+        "ts": 1795749550000
       },
       {
         "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini - The Guardian",
@@ -82,6 +82,13 @@
         "ts": 1795762873000
       },
       {
+        "title": "Murder Suspect Crashes Scooter Into Wild Elephant in Sri Lanka - cwibc.co.id",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6NHRubXNkNEhCWkhWVmVtR05wNmJDRloxUGZySlotZkRBRksyOHhLN2otN0s5SUZYRzdndkJxZEVTWVRpZUlOZ01xT0xjb0kzbm1nUVZHdmszQmF2R0V3dEJpeExnQQ?oc=5",
+        "source": "cwibc.co.id",
+        "pubDate": "Fri, 27 Nov 2026 16:28:13 GMT",
+        "ts": 1795796893000
+      },
+      {
         "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini - The Guardian",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVg4TG9pNTJCUFhKOTlmV0NTblI1SGF1QkFxcG14OVA4eWhzSUEwXzduRnZsbDVxVkg1Q055c3FxWHFGei15OHZXSVJ6MFI0MDVYdEZyeWtLZ2dQRXFQMmJrT1RkM29FSTBPaEZCamhZMmdlaXR2NVNYZ0c5aWwyTEpVT09BaV9UN3RuUWNXNW1GUjFOVUdMNF81Y19rOGpscDZpWnRSQkpJcElocU1rcDVzaFNqelVJQTNONnlHcw?oc=5",
         "source": "The Guardian",
@@ -124,13 +131,6 @@
         "ts": 1791356400000
       },
       {
-        "title": "India A Open Strongly Against Sri Lanka A in Asia Cup Semifinal - cwibc.co.id",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PZmJsWGs3MHpOQVFWdHlDMFFRWGZYbWh5aVVnc214Skl2RVV4anEtVGd1TUtraG51VTF3ZlItZ1ZvR3U2MTdZbjlBLV82SHRIZ1NhdV9Eak54Sk5LZWlzSnRTeWdwaWs?oc=5",
-        "source": "cwibc.co.id",
-        "pubDate": "Thu, 26 Nov 2026 10:17:47 GMT",
-        "ts": 1795688267000
-      },
-      {
         "title": "WFP warning becomes a reality for millions as Middle East crisis pushes poorest families further into hunger - UN World Food Programme",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTWY2ZkR3d2pSNURDczVkOGl2bVZzYldHLXNqUHBGYndaNkxPUk1MRnNEYVlzU2ltZkhaaUladVpZOV9MQnZYbTk1ZTRSU0dkYUVqekJUX3p4cngzMkNDVFNrdklrUU92c1VlMndQMFd3MHdXUzRqdkFhbmhFWmxtWHQ5MEJEMTl2V0xVR1FBcmFUZXpnd1YtaGtPU3I2RFY1TVlsbWphbk5XeEZyV0dwQWJnVElTWlE1Tzhz?oc=5",
         "source": "UN World Food Programme",
@@ -147,13 +147,6 @@
     ],
     "en:2": [
       {
-        "title": "Scots beaten by Sri Lanka in second group fixture - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3k5LWdpQWlBM2lxUWJwYWRZSDVpbmtjamtWLTl3QWdwUDdyV3hBalNzRDlYVkhlOVAxZGhydk9RcHY5VzFJTEZjMmNIVVdENTZpLUhHNFlnSHJjVHppaXpYLTROcmE1cFhkNXFwQUF6TFZxZHdqQVlZRXhYWFFYZGo0UnQ?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
-        "ts": 1794556800000
-      },
-      {
         "title": "SportVot gives Liga Portugal trio coverage in India, Sri Lanka, Maldives - Sportcal",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlBSRVY0ZmRma24wNGRvVFc1U0pCMVN6ai1mY3BMaFZwblZPNjdCTVEtZWN0UkJyTnUydFdIem0zR2poOVZUbm1EOWV6T1FocnlJWDFXSkI1ZjlJUEFPTmxxNWRqSlN1M0k5SmNVTG85aV9HRG1GUkcyTzVkRlJrYzFIX0h6UVpOSUhBdlk5RmgzQVpkaWFSSlNpelZJMWtNTFhn?oc=5",
         "source": "Sportcal",
@@ -161,11 +154,11 @@
         "ts": 1795708251000
       },
       {
-        "title": "Sri Lanka captain hails complete team effort after UAE success - Island.lk",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHgyQnlrUm8xb3VlcjZ5X0xRNUo3eEg5c3BBQlpiMHJOQVZpbVZDZ2w1Rlo0cDlZeVJ1NmN0dTgxeE5HNjlfYlpFTHdCbnpRZVlzUWtHb1RqVUlQY2xnUVBzOG13UzNSeDhrN2NwWkJGeW1uZENHQlR5UjVRNWlHUVpFUDVFM3B2?oc=5",
-        "source": "Island.lk",
-        "pubDate": "Fri, 27 Nov 2026 10:43:13 GMT",
-        "ts": 1795776193000
+        "title": "Scots beaten by Sri Lanka in second group fixture - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3k5LWdpQWlBM2lxUWJwYWRZSDVpbmtjamtWLTl3QWdwUDdyV3hBalNzRDlYVkhlOVAxZGhydk9RcHY5VzFJTEZjMmNIVVdENTZpLUhHNFlnSHJjVHppaXpYLTROcmE1cFhkNXFwQUF6TFZxZHdqQVlZRXhYWFFYZGo0UnQ?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
+        "ts": 1794556800000
       },
       {
         "title": "Sri Lankan sprinter's Asian Games exclusion sparks online misinformation - AFP Fact Check",
@@ -175,18 +168,18 @@
         "ts": 1790319600000
       },
       {
+        "title": "Sri Lanka captain hails complete team effort after UAE success - Island.lk",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHgyQnlrUm8xb3VlcjZ5X0xRNUo3eEg5c3BBQlpiMHJOQVZpbVZDZ2w1Rlo0cDlZeVJ1NmN0dTgxeE5HNjlfYlpFTHdCbnpRZVlzUWtHb1RqVUlQY2xnUVBzOG13UzNSeDhrN2NwWkJGeW1uZENHQlR5UjVRNWlHUVpFUDVFM3B2?oc=5",
+        "source": "Island.lk",
+        "pubDate": "Fri, 27 Nov 2026 10:43:13 GMT",
+        "ts": 1795776193000
+      },
+      {
         "title": "Pakistan v Sri Lanka Second Test Day 4 - Kayo Sports",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUXphcjBFdXFfNV8tcmx1YlBZdzNLMDY4dDdMM19Zbm5OT3kwVk9qeU4xQkVBbEljZm9FSWRiY1JlUEJ0d0w5MTJFV2xnQ1dENDJycTZEYjk3MFZTdHh6cEpaQm1ma3FqRml5SjlHYW9NeWUyWlppTGV6bkp5Q1FnWDNDQTBqWV9CTTB2VnVtb0dqMmdGZmh5cXM4Ykg5ejJRTnhxTGdxcmZWR1VUOHFKQndibDJwWjQyMm1hVDlNRmZPdHY2ODlnLURiRQ?oc=5",
         "source": "Kayo Sports",
         "pubDate": "Thu, 26 Nov 2026 01:12:18 GMT",
         "ts": 1795655538000
-      },
-      {
-        "title": "Sony Sports Network, Sony LIV to air India A vs Sri Lanka A semi-final - MediaBrief",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0p1V2Z4bzFuYVUtM25DZ3VvbXNHUnFvTExyYUdLRVlJZGtNb29PZXEtNlpqT2wxZWNUMmJEeTMtczJmTmFyTjNrU1RLQ29Ed0J3V3dMZ0drcTlZSEhlcEpUUlMybk55YWlVbWwxTGR1ZVRDT2R4Z09valpiaGlVM0JQUDAwdzFBb3VzNUZrWlZLNWFXYzMybw?oc=5",
-        "source": "MediaBrief",
-        "pubDate": "Thu, 26 Nov 2026 09:43:08 GMT",
-        "ts": 1795686188000
       },
       {
         "title": "'Unprofessional': Sanjay Manjrekar slams Sri Lanka’s antics in Colombo - Yahoo Sports",
@@ -215,6 +208,13 @@
         "source": "Yahoo Sports",
         "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
         "ts": 1792566000000
+      },
+      {
+        "title": "Dhananjaya de Silva steps down as Sri Lanka Test captain - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWXlaSkxqWk9UMlpWVmttR3c1em9IOXJjemxMV0NlOFdPZVBTb0Z1LTlsSk5DakNfZzVKN0NWdmpIV3JGLVZhejJhVWtyLS1WTUNNN3Q1T2o5NDVoR0g4b3dwbFpRd3l6WFBBTmlFSVpleEZycW5WVWlvTm1Hd3VkWDVpLU0tbnM?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Thu, 08 Oct 2026 07:00:00 GMT",
+        "ts": 1791442800000
       }
     ],
     "en:3": [
@@ -233,11 +233,25 @@
         "ts": 1778222147000
       },
       {
-        "title": "WION Digital Sri Lanka Summit: Experts explain why AI adoption needs stronger data governance - شبكة تواصل الإخبارية",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FQVlNemR1bWZJNjY4UEhXcXl4ck84cUFadVk3SkNkVjJVOV9UMGdHb0hmbU5Fak5DdUEyV0dXUzhfVHZ2YU5TSDRhTF9CUFkxT3VB?oc=5",
-        "source": "شبكة تواصل الإخبارية",
-        "pubDate": "Thu, 26 Nov 2026 16:18:10 GMT",
-        "ts": 1795709890000
+        "title": "INTELLIGENT. INTEGRATED. INCLUSIVE. A nation at the cusp of a digital transformation. A vision to build a technology-driven, digitally empowered economy. As Sri Lanka accelerates its journey towards digital governance, innovation and economic growth, - Facebook",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNU1zQU1abGFtWWhwY2VIQndpOFB4OFFrQ0VWQS0zRXJMZVJHVWs5TTduOHlwOGVBekZtRnBYSV92d0Jma2JrWjk2NUpmRVpHMVlqUER6bVhTZ0RsWnlSRFNiMm1ycmF1NDJDRmJTTFVEOGw3dXNLWmw0b3p4VjZPaTUtdndPQmRMc1JiSVhiWkR4Y0Z4Sy1EaTl4MEtQRWdXZ1ZRX3dPTHljdEVVWDVkblRXcTVPZXFtUkZHRnZDZ19qZ0E4cjlTcVVpYzZjR0ZOS09hVDBneTNWdw?oc=5",
+        "source": "Facebook",
+        "pubDate": "Wed, 18 Nov 2026 07:16:07 GMT",
+        "ts": 1794986167000
+      },
+      {
+        "title": "India, Sri Lanka Set to Deepen Digital Partnership in AI, UPI and Public Services - DD India",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGt6bkktU05rdXlEdG9MSnFVQjNCbV9aM1JVYkt2bHdFS3N5Uy1Dai16aGlvN25Pa1p3cVJhOHNGSEZoNWEya2tmZVhIWDVPM2h0b1hWeDBMc2hGVEM1Zlktc293RmlvdWd1cF9sN1JJMnY4VVpxRWhMSll6US13d2hhQTdYS191TUJ2a3FHQ01mTkxTbDhBbkVEVEZEX0tmTlZ1Z1lubmRvTnV5V3Nj?oc=5",
+        "source": "DD India",
+        "pubDate": "Thu, 26 Nov 2026 15:53:17 GMT",
+        "ts": 1795708397000
+      },
+      {
+        "title": "Sri Lanka Licenses EHang to Test Pilotless Two-Seat Air Taxi - Avi-Go",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZUExMZUhMMFg4TTA2NWlzMXYyNDJLV0JGeGd5aUNOR3NwbGpfWnowZ3BOTFBtMlBjV2d4WV9WdVhUbmU1TG1PaGhvaGNsbkpwSG1VRWxzendiQmJrSHZPV2otSm5TbEFmaldFNE8taGNNclU?oc=5",
+        "source": "Avi-Go",
+        "pubDate": "Thu, 12 Nov 2026 06:51:50 GMT",
+        "ts": 1794466310000
       },
       {
         "title": "Weofly Takes Centre Stage at One Galle Face: A New Wave of Wearable Technology Arrives in Sri Lanka, as The Technocity introduces the global lifestyle technology brand to Colombo. - Newswire",
@@ -247,46 +261,32 @@
         "ts": 1795691979000
       },
       {
-        "title": "Labour: Sri Lanka explores AI job opportunities - The Morning",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPbjVVUFhNYzk3MV9ScEdmUmZKa2pGSHV4V2VPQXhNSXhES183aUhickQ0cF9lSGtGVG1XTEx2T2VKUEpXbUVZNmxxdzhVRy1ZYWtLZVMxUTFLMDJvdVZQT05ORkk2UQ?oc=5",
-        "source": "The Morning",
-        "pubDate": "Fri, 27 Nov 2026 01:42:47 GMT",
-        "ts": 1795743767000
+        "title": "WION Digital Sri Lanka Summit: Experts explain why AI adoption needs stronger data governance - شبكة تواصل الإخبارية",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FQVlNemR1bWZJNjY4UEhXcXl4ck84cUFadVk3SkNkVjJVOV9UMGdHb0hmbU5Fak5DdUEyV0dXUzhfVHZ2YU5TSDRhTF9CUFkxT3VB?oc=5",
+        "source": "شبكة تواصل الإخبارية",
+        "pubDate": "Thu, 26 Nov 2026 16:18:10 GMT",
+        "ts": 1795709890000
       },
       {
-        "title": "President meets US envoy, discuss American technology support for Sri Lanka’s digital economy - Ada Derana",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1veEh3WHZTMGFHb2hYT2RRZnJuQ2dhbm9TRmJWMUhqTUdVM3BoUnBoTFJURHdPLXdGUW50UUd2eVNJdm5jR1Rz?oc=5",
-        "source": "Ada Derana",
+        "title": "Women in Tech Sri Lanka signs MoU with IIT to boost tech talent - EconomyNext",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUC01cmZGM3dCbnN3T2l5S1BTS2Rtc1ZFVUYzVm9WRmh2N3VHRHc0Q1BVTE05R3lPM05nUFZlMXFjYTVuWjd2aEZaRmszVElXWDQtSVllN09VYWIxX0g0OHY5NjB1UDlQWldzLWNpeE93SXFmQU5EUlQ0alJVR25jLXdYcTNkaFI3MWpERVRtZHRYajZLdGp6WnpRTQ?oc=5",
+        "source": "EconomyNext",
         "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
         "ts": 1794988800000
       },
       {
-        "title": "Port City Colombo seeking to tap Singapore’s tech sector to boost services exports - Island.lk",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkxuWUxuVFdxSmdGT3JEaXcxdlFLV2RRYjVzS0lFM3pjal82anVKRjQ0MVdQeFVVbjN5c0d6aC1GM0xJVk9GWkZzZmtpM1kteWtXeUlHU1FkUDgtM3k2Qkk5dE5sbUpaSDRvODdTekNHbmdVTW1iREdQajhxRHI5NlVjd1RZdWxuWkNyLTBYMlFJeG8wSFRFSV9HbWREaWo3TFE?oc=5",
-        "source": "Island.lk",
-        "pubDate": "Thu, 26 Nov 2026 00:00:30 GMT",
-        "ts": 1795651230000
+        "title": "Dialog Axiata, IIT Madras partner on applied research, technology development in Sri Lanka - Telecompaper",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWFlUTVltakdncWxXSWF5VEpEbkFzOGxMcGxjNkZrYVNUYkRpTFJmLUVTTWFiU202Q25ycHk3S2hOWUpvSWtQNk1pSkdvQVlfMjVnY1ltUHRSTm13VlVqT0U5aE5RbTd0cDF0dGtDYzhOaGtVTVVtQzBFOEJreDNQQTRxSE1IUXBOUTlYNzQtbWJoS01ERVJNNndPOTNmenR2akp1NlF5czRKVUN2TnFZbHV1VGJNOUVJU3NZMkpqVm8yUldQWGFhbzU1VQ?oc=5",
+        "source": "Telecompaper",
+        "pubDate": "Wed, 28 Oct 2026 05:29:05 GMT",
+        "ts": 1793165345000
       },
       {
-        "title": "Innovation Across Borders: Sri Lanka - Unicef",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ19ES2c3MEJ6RFYxUHhnOVdNZVlZa1o0Z0JmUEtub3hZdWVCLXVuZnRRYUprN0ZHUVR1d3cxVUI3OTZzVXNmMDMwSElyWUp3VW90aTJCZmctUm4walJERk1TQUNvTEhFN3FTMHllbGl0TWFhUkJyTGZDeVpJSG5YdmdJYw?oc=5",
-        "source": "Unicef",
-        "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT",
-        "ts": 1770796800000
-      },
-      {
-        "title": "UAE investors eye Sri Lanka ports, logistics, food security and technology opportunities - Gulf News",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNGhtTlFyZTRTWlpaMWV3TjhfTGRhVDdhLTZ0QWh4NWJtaEc2T1VfQTRQenFyYXlxVUF0RndEX0E1X3hxMFNGWWluVDZnSTNIVjRRa19pcnJWdXREcWwxM0J6WlZKTEtPZ1F5N0x2ZWdsZmtVNThBcnVEOGtaelNfck94dzJrSkM2UFdiX1R1UmVTMHNKODdqeGxrcWRpaGh5c3FVeHdxdklqaV9RYS02Uzdsa1I2TXlIVEROSzVoY3FGZjJpR3laRlAwR2ptYUlZZ0HSAeQBQVVfeXFMUG5DZzIzNHpka0V0MThSNldBRWxFVzUwRm02dHhBaXFLdFFSeG9zTWVTZE5IZ2VnTXgwR1hpanNLaklodGtIb25TcVp1VHpObTJCNVRTZEtVdUMwemhmWi1LSmJxY0tjbmYwY0pDaVFDMDhXQkQ5SHhVUkRTeEpDYmU0SXRORUxPU09YZ1ZQMmtLUHprSGY5YzdsNzh4YWN2UGI1QkhhM21kbGlRN1BjaVFFQTdENmVBU0tMLXdMWV9OU2d3a2FpYjdzaVM2LWhJbU12OUJqUHBjNVdwYW90S3JmLXVT?oc=5",
-        "source": "Gulf News",
-        "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
-        "ts": 1788418800000
-      },
-      {
-        "title": "WION Digital Sri Lanka Summit: Experts discuss cybersecurity, India partnership, digital growth and AI - شبكة تواصل الإخبارية",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LVmdackpJaV9tZmlNR0ZWUEFJekVXRFJlRFJPek45bEZrSlRUM3pmajc0TkRSUVI4QmQwTW1ZYVBDZEh2UC1zZ2t6SzV2bG4yVTRz?oc=5",
-        "source": "شبكة تواصل الإخبارية",
-        "pubDate": "Thu, 26 Nov 2026 12:18:58 GMT",
-        "ts": 1795695538000
+        "title": "Live demos, practical training boost biofouling action in Sri Lanka - International Maritime Organization",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Xa25qWkZsZ3VWYnU4RmU0UnIxbW5hV3VlNk5XQU12R1FDTzk5M1hJQzZIWDNhbTBMUFNPVktpeWpFX2tGRlpBUS10cWxGQ0FBbWg0blZIUTZaZVNoTEkyZVZFVHZJQnVNWFNZ?oc=5",
+        "source": "International Maritime Organization",
+        "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "ts": 1782802800000
       }
     ],
     "en:4": [
@@ -333,13 +333,6 @@
         "ts": 1794728616000
       },
       {
-        "title": "Fleeing murder suspect crashes into elephant in Sri Lanka - Macau Business",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdRcWFEUGM5V2FLTGRKc1haNnVmS21BLWxIRnR0c2Y2LXFURHY4ajJHQll2aV9MZERGNlk0SGJpQmxKSURvdGVyRTlzM2lDUzNVQk0yWktFMUc1aHh4OENZT1ZyVldZNjlTVEdOMXNxdVJ6a3FzM2dQTk5xM196d2pEeEdQbXNWaDREbg?oc=5",
-        "source": "Macau Business",
-        "pubDate": "Fri, 27 Nov 2026 13:47:05 GMT",
-        "ts": 1795787225000
-      },
-      {
         "title": "WION Digital Sri Lanka Summit: Business heads talk about how digital decisions are shaping business outcomes - شبكة تواصل الإخبارية",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NS0dBa3JlZ2FGU01wSFdBNElUWEk4aHlzc1BwNi14NVBNcnNtaVJfOW90a1p4cFZiMHM0ZE5TMkVQYzFESG00akZudjk5MUJCeV8w?oc=5",
         "source": "شبكة تواصل الإخبارية",
@@ -359,6 +352,13 @@
         "source": "https://businessinbangladesh.com.bd/",
         "pubDate": "Wed, 25 Nov 2026 12:56:25 GMT",
         "ts": 1795611385000
+      },
+      {
+        "title": "Montana Governor Greg Gianforte to Visit Sri Lanka, Strengthening Agricultural Trade and Security Cooperation - U.S. Embassy in Sri Lanka (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGlHUUdpdWdJRS1iREp5QXY4SzBiV0diOEpTUXlrSkd2QlppYTBlX3hMQzVzLUJmM0t1QmdxUi1MWWNlSEZKMENHUko2ZVJkVko1a0tPc3AwYnhGZWJUeXJ0dHZjR0F5ZDYyN0VOYnZrc2RCNGs2UjBBdFFkd3Y1M3d3?oc=5",
+        "source": "U.S. Embassy in Sri Lanka (.gov)",
+        "pubDate": "Thu, 08 Oct 2026 07:00:00 GMT",
+        "ts": 1791442800000
       }
     ],
     "en:5": [
@@ -398,6 +398,13 @@
         "ts": 1772092800000
       },
       {
+        "title": "Daraz Unites 150+ Influencers and Three Leading Entertainment Personalities for Sri Lanka’s Biggest Shopping Campaign of 2026 - Colombo Gazette",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0toWUVnVGtaMURTend1eEtZbnM3U3Y3SW54RTY5Q190dFlwY0xCS3ZXa0NOYXEzQlNyYjNzbmhSY3lUQktxa2JWbDJEMGJKT0hORkRjRGR4aGFiUUszVGNsRlhua3Vzd2ZOUzA5dzB0OFU4MXBVbGxUckVrblJjOGlsWFN4NWF4ckJPMnhHWGhkc0pYMGx6MWx4SGtibHhXdklQRFlNQmhjXzZRaUZuNURQWE9QcTZnaHQ3c0lrUVhRY09qT29GR2l4dHpmQ29jbElBdE05elFfdU5qYjFHRzZhbFp5aVdBYkt2QS1BS19ld1k?oc=5",
+        "source": "Colombo Gazette",
+        "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT",
+        "ts": 1794902400000
+      },
+      {
         "title": "CMC cuts entertainment taxes; new Gazette issued - Newswire",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWd0QlZad2VQMWc4Q3o4WG43OW5acjRkODA0ZGRSUk1GdXVFdE0zaFJnaEJJX19EaldILU5KdnN1U0xTYUJkNVM3aGMwS1dhSXhMdDBfRTBCVlhJLTNmUXdZTlMweDY2NHFkTUZvWl92M2VlTmF4V3ZfXzNjNEc1Z25NajB3cl9EeXI0?oc=5",
         "source": "Newswire",
@@ -424,29 +431,22 @@
         "source": "Focus Gaming News",
         "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT",
         "ts": 1792134000000
-      },
-      {
-        "title": "Top 5 Entertainment News: From Gil Gerard demise to Rashmika Mandanna's Sri Lanka trip sparking bachelore - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxONk4yVXZiZU85TGRVTWl5M0swODUwNk9TNHRJVXhQRi1sNjlkbDktWkVNRG50MWlPVEJmaXlNcWc0aktRMmllbDJReXVFbF9MUlZKZ0hGSklVUGFVTDMzMVpFNDYzMGE3dXJLUTJGTEFsd0RTUGlIcTV4SndkY3F0NjhDRWpaSS1kWV9lOTBNUTNmYXhJOFlOTkRKZ3MwNDJhZzNNNFpQbU5MQUF6dHBMSmVxblh2cjZDZC1YM2VwbkxhT3V4bzhWN1RQcmVUa1d5bHNUYjVZc2NZcjZtS1VKM0w1QnR6ck5OT05faE1jTU5IODNYckNXQ3BpcEp0TmI3Skh5R20ycEN3cWlPRkpCckF5Z0MwdW1hVVN1dDNqODFBNURIQWZmS3dqM04zcEU5enZwamVSUUxBbzRpbzItUHg3b3NlaFFZcXVOdHMzWW0yMzJyR0Z0dllYbk7SAeICQVVfeXFMTllXOWdqNjBmaUtkSjFvUGhBckJUak1TUmJZLVd3YWFXLTVWWnFaNllaRnRLakcza1dDTE5JVUpXRGxFOVN1NkxBa28yQjBVWEVjV0ZqcmhjMFBBR2JqeDVLYk5TTVljWGNUajF5MVkwc2lLRkJNU2JJbkF0Smlkd0tpbFlQVmw0amZJNnlQXzlUWFlqQXZybGRmRncwTlhCdzI5NUQyNUZwRFJIbTRtajk5bEY2R3p5REx2YVNHNG5sODlpTXpKeEJrcTBHSVdvMS1kd1pqUzRiMlAxSHBIeGpkVUU5bEU3SkpCcHhaeFFIdFZDbzF3dDlYWmNETVVraXd3SGJpckJaTDBqaXlTNFRqMU5mQ1F4ckh1WjM4ZUNJenZMNUVzNVVhUWRJV1hoWWdWdzVqeWdyX3J2TXdYVHo3X1hsOFRUdF94OHdOUHR3RExiVFJ5MElWZVZkaEx5N0pn?oc=5",
-        "source": "The Times of India",
-        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-        "ts": 1766044800000
       }
     ],
     "si:0": [
-      {
-        "title": "SL A storm into final after Croospulle, Jayawardena tons - ESPN",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbnBwTmFlTHlRSjhKcXJpMFVXMURwaUNwRm9GMm12UndBUkdIUDVxT1BmSTQ3aDJDemlhcUhoVFp2ckpfeW1kenJNb2VpaEhDTGZYR2NMdzN6Y3NXZnFfMHNqc01tWE0tMnpheTNPM1VnaTBKTmxQY1YxTnNhZWZjTlRLYjBJaUVNWlhPN0JldFo2TFdMYnpwMFBmQlU0MXYyNUJtOWhYQVBnd1FTeS1yTWFfck5CT3J1cVl1MWIyclpxOS1rMGNwTmh6TC1yZw?oc=5",
-        "source": "ESPN",
-        "pubDate": "Fri, 27 Nov 2026 03:19:10 GMT",
-        "ts": 1795749550000
-      },
       {
         "title": "Murder suspect crashes into elephant while fleeing police in Sri Lanka - CBS News",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZW1icFFyUHlJOEdUQk05OVBUbl9qVkdoRU5ibEJzMjlsZ3dqZlNJaVBrUG1WZzloTVBkQ3gtLUthenNsbm05OGZocFJlcTg2dUk3M0dVTVNDT1NqRzFuZEZKT3U3Q21mMzJlMWRRYTRSVzFrUjZFQ0lEekxrZW96WEduQkVNV1NvR3lGRFh6Zw?oc=5",
         "source": "CBS News",
         "pubDate": "Fri, 27 Nov 2026 12:31:39 GMT",
         "ts": 1795782699000
+      },
+      {
+        "title": "SL A storm into final after Croospulle, Jayawardena tons - ESPN",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbnBwTmFlTHlRSjhKcXJpMFVXMURwaUNwRm9GMm12UndBUkdIUDVxT1BmSTQ3aDJDemlhcUhoVFp2ckpfeW1kenJNb2VpaEhDTGZYR2NMdzN6Y3NXZnFfMHNqc01tWE0tMnpheTNPM1VnaTBKTmxQY1YxTnNhZWZjTlRLYjBJaUVNWlhPN0JldFo2TFdMYnpwMFBmQlU0MXYyNUJtOWhYQVBnd1FTeS1yTWFfck5CT3J1cVl1MWIyclpxOS1rMGNwTmh6TC1yZw?oc=5",
+        "source": "ESPN",
+        "pubDate": "Fri, 27 Nov 2026 03:19:10 GMT",
+        "ts": 1795749550000
       },
       {
         "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini - The Guardian",
@@ -514,6 +514,13 @@
         "ts": 1795762873000
       },
       {
+        "title": "Murder Suspect Crashes Scooter Into Wild Elephant in Sri Lanka - cwibc.co.id",
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6NHRubXNkNEhCWkhWVmVtR05wNmJDRloxUGZySlotZkRBRksyOHhLN2otN0s5SUZYRzdndkJxZEVTWVRpZUlOZ01xT0xjb0kzbm1nUVZHdmszQmF2R0V3dEJpeExnQQ?oc=5",
+        "source": "cwibc.co.id",
+        "pubDate": "Fri, 27 Nov 2026 16:28:13 GMT",
+        "ts": 1795796893000
+      },
+      {
         "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini - The Guardian",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdVg4TG9pNTJCUFhKOTlmV0NTblI1SGF1QkFxcG14OVA4eWhzSUEwXzduRnZsbDVxVkg1Q055c3FxWHFGei15OHZXSVJ6MFI0MDVYdEZyeWtLZ2dQRXFQMmJrT1RkM29FSTBPaEZCamhZMmdlaXR2NVNYZ0c5aWwyTEpVT09BaV9UN3RuUWNXNW1GUjFOVUdMNF81Y19rOGpscDZpWnRSQkpJcElocU1rcDVzaFNqelVJQTNONnlHcw?oc=5",
         "source": "The Guardian",
@@ -556,13 +563,6 @@
         "ts": 1791356400000
       },
       {
-        "title": "India A Open Strongly Against Sri Lanka A in Asia Cup Semifinal - cwibc.co.id",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PZmJsWGs3MHpOQVFWdHlDMFFRWGZYbWh5aVVnc214Skl2RVV4anEtVGd1TUtraG51VTF3ZlItZ1ZvR3U2MTdZbjlBLV82SHRIZ1NhdV9Eak54Sk5LZWlzSnRTeWdwaWs?oc=5",
-        "source": "cwibc.co.id",
-        "pubDate": "Thu, 26 Nov 2026 10:17:47 GMT",
-        "ts": 1795688267000
-      },
-      {
         "title": "WFP warning becomes a reality for millions as Middle East crisis pushes poorest families further into hunger - UN World Food Programme",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTWY2ZkR3d2pSNURDczVkOGl2bVZzYldHLXNqUHBGYndaNkxPUk1MRnNEYVlzU2ltZkhaaUladVpZOV9MQnZYbTk1ZTRSU0dkYUVqekJUX3p4cngzMkNDVFNrdklrUU92c1VlMndQMFd3MHdXUzRqdkFhbmhFWmxtWHQ5MEJEMTl2V0xVR1FBcmFUZXpnd1YtaGtPU3I2RFY1TVlsbWphbk5XeEZyV0dwQWJnVElTWlE1Tzhz?oc=5",
         "source": "UN World Food Programme",
@@ -579,13 +579,6 @@
     ],
     "si:2": [
       {
-        "title": "Scots beaten by Sri Lanka in second group fixture - Yahoo Sports",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3k5LWdpQWlBM2lxUWJwYWRZSDVpbmtjamtWLTl3QWdwUDdyV3hBalNzRDlYVkhlOVAxZGhydk9RcHY5VzFJTEZjMmNIVVdENTZpLUhHNFlnSHJjVHppaXpYLTROcmE1cFhkNXFwQUF6TFZxZHdqQVlZRXhYWFFYZGo0UnQ?oc=5",
-        "source": "Yahoo Sports",
-        "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
-        "ts": 1794556800000
-      },
-      {
         "title": "SportVot gives Liga Portugal trio coverage in India, Sri Lanka, Maldives - Sportcal",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVlBSRVY0ZmRma24wNGRvVFc1U0pCMVN6ai1mY3BMaFZwblZPNjdCTVEtZWN0UkJyTnUydFdIem0zR2poOVZUbm1EOWV6T1FocnlJWDFXSkI1ZjlJUEFPTmxxNWRqSlN1M0k5SmNVTG85aV9HRG1GUkcyTzVkRlJrYzFIX0h6UVpOSUhBdlk5RmgzQVpkaWFSSlNpelZJMWtNTFhn?oc=5",
         "source": "Sportcal",
@@ -593,11 +586,11 @@
         "ts": 1795708251000
       },
       {
-        "title": "Sri Lanka captain hails complete team effort after UAE success - Island.lk",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHgyQnlrUm8xb3VlcjZ5X0xRNUo3eEg5c3BBQlpiMHJOQVZpbVZDZ2w1Rlo0cDlZeVJ1NmN0dTgxeE5HNjlfYlpFTHdCbnpRZVlzUWtHb1RqVUlQY2xnUVBzOG13UzNSeDhrN2NwWkJGeW1uZENHQlR5UjVRNWlHUVpFUDVFM3B2?oc=5",
-        "source": "Island.lk",
-        "pubDate": "Fri, 27 Nov 2026 10:43:13 GMT",
-        "ts": 1795776193000
+        "title": "Scots beaten by Sri Lanka in second group fixture - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc3k5LWdpQWlBM2lxUWJwYWRZSDVpbmtjamtWLTl3QWdwUDdyV3hBalNzRDlYVkhlOVAxZGhydk9RcHY5VzFJTEZjMmNIVVdENTZpLUhHNFlnSHJjVHppaXpYLTROcmE1cFhkNXFwQUF6TFZxZHdqQVlZRXhYWFFYZGo0UnQ?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Fri, 13 Nov 2026 08:00:00 GMT",
+        "ts": 1794556800000
       },
       {
         "title": "Sri Lankan sprinter's Asian Games exclusion sparks online misinformation - AFP Fact Check",
@@ -607,18 +600,18 @@
         "ts": 1790319600000
       },
       {
+        "title": "Sri Lanka captain hails complete team effort after UAE success - Island.lk",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHgyQnlrUm8xb3VlcjZ5X0xRNUo3eEg5c3BBQlpiMHJOQVZpbVZDZ2w1Rlo0cDlZeVJ1NmN0dTgxeE5HNjlfYlpFTHdCbnpRZVlzUWtHb1RqVUlQY2xnUVBzOG13UzNSeDhrN2NwWkJGeW1uZENHQlR5UjVRNWlHUVpFUDVFM3B2?oc=5",
+        "source": "Island.lk",
+        "pubDate": "Fri, 27 Nov 2026 10:43:13 GMT",
+        "ts": 1795776193000
+      },
+      {
         "title": "Pakistan v Sri Lanka Second Test Day 4 - Kayo Sports",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUXphcjBFdXFfNV8tcmx1YlBZdzNLMDY4dDdMM19Zbm5OT3kwVk9qeU4xQkVBbEljZm9FSWRiY1JlUEJ0d0w5MTJFV2xnQ1dENDJycTZEYjk3MFZTdHh6cEpaQm1ma3FqRml5SjlHYW9NeWUyWlppTGV6bkp5Q1FnWDNDQTBqWV9CTTB2VnVtb0dqMmdGZmh5cXM4Ykg5ejJRTnhxTGdxcmZWR1VUOHFKQndibDJwWjQyMm1hVDlNRmZPdHY2ODlnLURiRQ?oc=5",
         "source": "Kayo Sports",
         "pubDate": "Thu, 26 Nov 2026 01:12:18 GMT",
         "ts": 1795655538000
-      },
-      {
-        "title": "Sony Sports Network, Sony LIV to air India A vs Sri Lanka A semi-final - MediaBrief",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0p1V2Z4bzFuYVUtM25DZ3VvbXNHUnFvTExyYUdLRVlJZGtNb29PZXEtNlpqT2wxZWNUMmJEeTMtczJmTmFyTjNrU1RLQ29Ed0J3V3dMZ0drcTlZSEhlcEpUUlMybk55YWlVbWwxTGR1ZVRDT2R4Z09valpiaGlVM0JQUDAwdzFBb3VzNUZrWlZLNWFXYzMybw?oc=5",
-        "source": "MediaBrief",
-        "pubDate": "Thu, 26 Nov 2026 09:43:08 GMT",
-        "ts": 1795686188000
       },
       {
         "title": "'Unprofessional': Sanjay Manjrekar slams Sri Lanka’s antics in Colombo - Yahoo Sports",
@@ -647,6 +640,13 @@
         "source": "Yahoo Sports",
         "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
         "ts": 1792566000000
+      },
+      {
+        "title": "Dhananjaya de Silva steps down as Sri Lanka Test captain - Yahoo Sports",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWXlaSkxqWk9UMlpWVmttR3c1em9IOXJjemxMV0NlOFdPZVBTb0Z1LTlsSk5DakNfZzVKN0NWdmpIV3JGLVZhejJhVWtyLS1WTUNNN3Q1T2o5NDVoR0g4b3dwbFpRd3l6WFBBTmlFSVpleEZycW5WVWlvTm1Hd3VkWDVpLU0tbnM?oc=5",
+        "source": "Yahoo Sports",
+        "pubDate": "Thu, 08 Oct 2026 07:00:00 GMT",
+        "ts": 1791442800000
       }
     ],
     "si:3": [
@@ -665,11 +665,25 @@
         "ts": 1778222147000
       },
       {
-        "title": "WION Digital Sri Lanka Summit: Experts explain why AI adoption needs stronger data governance - شبكة تواصل الإخبارية",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FQVlNemR1bWZJNjY4UEhXcXl4ck84cUFadVk3SkNkVjJVOV9UMGdHb0hmbU5Fak5DdUEyV0dXUzhfVHZ2YU5TSDRhTF9CUFkxT3VB?oc=5",
-        "source": "شبكة تواصل الإخبارية",
-        "pubDate": "Thu, 26 Nov 2026 16:18:10 GMT",
-        "ts": 1795709890000
+        "title": "INTELLIGENT. INTEGRATED. INCLUSIVE. A nation at the cusp of a digital transformation. A vision to build a technology-driven, digitally empowered economy. As Sri Lanka accelerates its journey towards digital governance, innovation and economic growth, - Facebook",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNU1zQU1abGFtWWhwY2VIQndpOFB4OFFrQ0VWQS0zRXJMZVJHVWs5TTduOHlwOGVBekZtRnBYSV92d0Jma2JrWjk2NUpmRVpHMVlqUER6bVhTZ0RsWnlSRFNiMm1ycmF1NDJDRmJTTFVEOGw3dXNLWmw0b3p4VjZPaTUtdndPQmRMc1JiSVhiWkR4Y0Z4Sy1EaTl4MEtQRWdXZ1ZRX3dPTHljdEVVWDVkblRXcTVPZXFtUkZHRnZDZ19qZ0E4cjlTcVVpYzZjR0ZOS09hVDBneTNWdw?oc=5",
+        "source": "Facebook",
+        "pubDate": "Wed, 18 Nov 2026 07:16:07 GMT",
+        "ts": 1794986167000
+      },
+      {
+        "title": "India, Sri Lanka Set to Deepen Digital Partnership in AI, UPI and Public Services - DD India",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGt6bkktU05rdXlEdG9MSnFVQjNCbV9aM1JVYkt2bHdFS3N5Uy1Dai16aGlvN25Pa1p3cVJhOHNGSEZoNWEya2tmZVhIWDVPM2h0b1hWeDBMc2hGVEM1Zlktc293RmlvdWd1cF9sN1JJMnY4VVpxRWhMSll6US13d2hhQTdYS191TUJ2a3FHQ01mTkxTbDhBbkVEVEZEX0tmTlZ1Z1lubmRvTnV5V3Nj?oc=5",
+        "source": "DD India",
+        "pubDate": "Thu, 26 Nov 2026 15:53:17 GMT",
+        "ts": 1795708397000
+      },
+      {
+        "title": "Sri Lanka Licenses EHang to Test Pilotless Two-Seat Air Taxi - Avi-Go",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZUExMZUhMMFg4TTA2NWlzMXYyNDJLV0JGeGd5aUNOR3NwbGpfWnowZ3BOTFBtMlBjV2d4WV9WdVhUbmU1TG1PaGhvaGNsbkpwSG1VRWxzendiQmJrSHZPV2otSm5TbEFmaldFNE8taGNNclU?oc=5",
+        "source": "Avi-Go",
+        "pubDate": "Thu, 12 Nov 2026 06:51:50 GMT",
+        "ts": 1794466310000
       },
       {
         "title": "Weofly Takes Centre Stage at One Galle Face: A New Wave of Wearable Technology Arrives in Sri Lanka, as The Technocity introduces the global lifestyle technology brand to Colombo. - Newswire",
@@ -679,46 +693,32 @@
         "ts": 1795691979000
       },
       {
-        "title": "Labour: Sri Lanka explores AI job opportunities - The Morning",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPbjVVUFhNYzk3MV9ScEdmUmZKa2pGSHV4V2VPQXhNSXhES183aUhickQ0cF9lSGtGVG1XTEx2T2VKUEpXbUVZNmxxdzhVRy1ZYWtLZVMxUTFLMDJvdVZQT05ORkk2UQ?oc=5",
-        "source": "The Morning",
-        "pubDate": "Fri, 27 Nov 2026 01:42:47 GMT",
-        "ts": 1795743767000
+        "title": "WION Digital Sri Lanka Summit: Experts explain why AI adoption needs stronger data governance - شبكة تواصل الإخبارية",
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FQVlNemR1bWZJNjY4UEhXcXl4ck84cUFadVk3SkNkVjJVOV9UMGdHb0hmbU5Fak5DdUEyV0dXUzhfVHZ2YU5TSDRhTF9CUFkxT3VB?oc=5",
+        "source": "شبكة تواصل الإخبارية",
+        "pubDate": "Thu, 26 Nov 2026 16:18:10 GMT",
+        "ts": 1795709890000
       },
       {
-        "title": "President meets US envoy, discuss American technology support for Sri Lanka’s digital economy - Ada Derana",
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1veEh3WHZTMGFHb2hYT2RRZnJuQ2dhbm9TRmJWMUhqTUdVM3BoUnBoTFJURHdPLXdGUW50UUd2eVNJdm5jR1Rz?oc=5",
-        "source": "Ada Derana",
+        "title": "Women in Tech Sri Lanka signs MoU with IIT to boost tech talent - EconomyNext",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUC01cmZGM3dCbnN3T2l5S1BTS2Rtc1ZFVUYzVm9WRmh2N3VHRHc0Q1BVTE05R3lPM05nUFZlMXFjYTVuWjd2aEZaRmszVElXWDQtSVllN09VYWIxX0g0OHY5NjB1UDlQWldzLWNpeE93SXFmQU5EUlQ0alJVR25jLXdYcTNkaFI3MWpERVRtZHRYajZLdGp6WnpRTQ?oc=5",
+        "source": "EconomyNext",
         "pubDate": "Wed, 18 Nov 2026 08:00:00 GMT",
         "ts": 1794988800000
       },
       {
-        "title": "Port City Colombo seeking to tap Singapore’s tech sector to boost services exports - Island.lk",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTkxuWUxuVFdxSmdGT3JEaXcxdlFLV2RRYjVzS0lFM3pjal82anVKRjQ0MVdQeFVVbjN5c0d6aC1GM0xJVk9GWkZzZmtpM1kteWtXeUlHU1FkUDgtM3k2Qkk5dE5sbUpaSDRvODdTekNHbmdVTW1iREdQajhxRHI5NlVjd1RZdWxuWkNyLTBYMlFJeG8wSFRFSV9HbWREaWo3TFE?oc=5",
-        "source": "Island.lk",
-        "pubDate": "Thu, 26 Nov 2026 00:00:30 GMT",
-        "ts": 1795651230000
+        "title": "Dialog Axiata, IIT Madras partner on applied research, technology development in Sri Lanka - Telecompaper",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWFlUTVltakdncWxXSWF5VEpEbkFzOGxMcGxjNkZrYVNUYkRpTFJmLUVTTWFiU202Q25ycHk3S2hOWUpvSWtQNk1pSkdvQVlfMjVnY1ltUHRSTm13VlVqT0U5aE5RbTd0cDF0dGtDYzhOaGtVTVVtQzBFOEJreDNQQTRxSE1IUXBOUTlYNzQtbWJoS01ERVJNNndPOTNmenR2akp1NlF5czRKVUN2TnFZbHV1VGJNOUVJU3NZMkpqVm8yUldQWGFhbzU1VQ?oc=5",
+        "source": "Telecompaper",
+        "pubDate": "Wed, 28 Oct 2026 05:29:05 GMT",
+        "ts": 1793165345000
       },
       {
-        "title": "Innovation Across Borders: Sri Lanka - Unicef",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ19ES2c3MEJ6RFYxUHhnOVdNZVlZa1o0Z0JmUEtub3hZdWVCLXVuZnRRYUprN0ZHUVR1d3cxVUI3OTZzVXNmMDMwSElyWUp3VW90aTJCZmctUm4walJERk1TQUNvTEhFN3FTMHllbGl0TWFhUkJyTGZDeVpJSG5YdmdJYw?oc=5",
-        "source": "Unicef",
-        "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT",
-        "ts": 1770796800000
-      },
-      {
-        "title": "UAE investors eye Sri Lanka ports, logistics, food security and technology opportunities - Gulf News",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNGhtTlFyZTRTWlpaMWV3TjhfTGRhVDdhLTZ0QWh4NWJtaEc2T1VfQTRQenFyYXlxVUF0RndEX0E1X3hxMFNGWWluVDZnSTNIVjRRa19pcnJWdXREcWwxM0J6WlZKTEtPZ1F5N0x2ZWdsZmtVNThBcnVEOGtaelNfck94dzJrSkM2UFdiX1R1UmVTMHNKODdqeGxrcWRpaGh5c3FVeHdxdklqaV9RYS02Uzdsa1I2TXlIVEROSzVoY3FGZjJpR3laRlAwR2ptYUlZZ0HSAeQBQVVfeXFMUG5DZzIzNHpka0V0MThSNldBRWxFVzUwRm02dHhBaXFLdFFSeG9zTWVTZE5IZ2VnTXgwR1hpanNLaklodGtIb25TcVp1VHpObTJCNVRTZEtVdUMwemhmWi1LSmJxY0tjbmYwY0pDaVFDMDhXQkQ5SHhVUkRTeEpDYmU0SXRORUxPU09YZ1ZQMmtLUHprSGY5YzdsNzh4YWN2UGI1QkhhM21kbGlRN1BjaVFFQTdENmVBU0tMLXdMWV9OU2d3a2FpYjdzaVM2LWhJbU12OUJqUHBjNVdwYW90S3JmLXVT?oc=5",
-        "source": "Gulf News",
-        "pubDate": "Thu, 03 Sep 2026 07:00:00 GMT",
-        "ts": 1788418800000
-      },
-      {
-        "title": "WION Digital Sri Lanka Summit: Experts discuss cybersecurity, India partnership, digital growth and AI - شبكة تواصل الإخبارية",
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LVmdackpJaV9tZmlNR0ZWUEFJekVXRFJlRFJPek45bEZrSlRUM3pmajc0TkRSUVI4QmQwTW1ZYVBDZEh2UC1zZ2t6SzV2bG4yVTRz?oc=5",
-        "source": "شبكة تواصل الإخبارية",
-        "pubDate": "Thu, 26 Nov 2026 12:18:58 GMT",
-        "ts": 1795695538000
+        "title": "Live demos, practical training boost biofouling action in Sri Lanka - International Maritime Organization",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Xa25qWkZsZ3VWYnU4RmU0UnIxbW5hV3VlNk5XQU12R1FDTzk5M1hJQzZIWDNhbTBMUFNPVktpeWpFX2tGRlpBUS10cWxGQ0FBbWg0blZIUTZaZVNoTEkyZVZFVHZJQnVNWFNZ?oc=5",
+        "source": "International Maritime Organization",
+        "pubDate": "Tue, 30 Jun 2026 07:00:00 GMT",
+        "ts": 1782802800000
       }
     ],
     "si:4": [
@@ -765,13 +765,6 @@
         "ts": 1794728616000
       },
       {
-        "title": "Fleeing murder suspect crashes into elephant in Sri Lanka - Macau Business",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdRcWFEUGM5V2FLTGRKc1haNnVmS21BLWxIRnR0c2Y2LXFURHY4ajJHQll2aV9MZERGNlk0SGJpQmxKSURvdGVyRTlzM2lDUzNVQk0yWktFMUc1aHh4OENZT1ZyVldZNjlTVEdOMXNxdVJ6a3FzM2dQTk5xM196d2pEeEdQbXNWaDREbg?oc=5",
-        "source": "Macau Business",
-        "pubDate": "Fri, 27 Nov 2026 13:47:05 GMT",
-        "ts": 1795787225000
-      },
-      {
         "title": "WION Digital Sri Lanka Summit: Business heads talk about how digital decisions are shaping business outcomes - شبكة تواصل الإخبارية",
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NS0dBa3JlZ2FGU01wSFdBNElUWEk4aHlzc1BwNi14NVBNcnNtaVJfOW90a1p4cFZiMHM0ZE5TMkVQYzFESG00akZudjk5MUJCeV8w?oc=5",
         "source": "شبكة تواصل الإخبارية",
@@ -791,6 +784,13 @@
         "source": "https://businessinbangladesh.com.bd/",
         "pubDate": "Wed, 25 Nov 2026 12:56:25 GMT",
         "ts": 1795611385000
+      },
+      {
+        "title": "Montana Governor Greg Gianforte to Visit Sri Lanka, Strengthening Agricultural Trade and Security Cooperation - U.S. Embassy in Sri Lanka (.gov)",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNGlHUUdpdWdJRS1iREp5QXY4SzBiV0diOEpTUXlrSkd2QlppYTBlX3hMQzVzLUJmM0t1QmdxUi1MWWNlSEZKMENHUko2ZVJkVko1a0tPc3AwYnhGZWJUeXJ0dHZjR0F5ZDYyN0VOYnZrc2RCNGs2UjBBdFFkd3Y1M3d3?oc=5",
+        "source": "U.S. Embassy in Sri Lanka (.gov)",
+        "pubDate": "Thu, 08 Oct 2026 07:00:00 GMT",
+        "ts": 1791442800000
       }
     ],
     "si:5": [
@@ -830,6 +830,13 @@
         "ts": 1772092800000
       },
       {
+        "title": "Daraz Unites 150+ Influencers and Three Leading Entertainment Personalities for Sri Lanka’s Biggest Shopping Campaign of 2026 - Colombo Gazette",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOV0toWUVnVGtaMURTend1eEtZbnM3U3Y3SW54RTY5Q190dFlwY0xCS3ZXa0NOYXEzQlNyYjNzbmhSY3lUQktxa2JWbDJEMGJKT0hORkRjRGR4aGFiUUszVGNsRlhua3Vzd2ZOUzA5dzB0OFU4MXBVbGxUckVrblJjOGlsWFN4NWF4ckJPMnhHWGhkc0pYMGx6MWx4SGtibHhXdklQRFlNQmhjXzZRaUZuNURQWE9QcTZnaHQ3c0lrUVhRY09qT29GR2l4dHpmQ29jbElBdE05elFfdU5qYjFHRzZhbFp5aVdBYkt2QS1BS19ld1k?oc=5",
+        "source": "Colombo Gazette",
+        "pubDate": "Tue, 17 Nov 2026 08:00:00 GMT",
+        "ts": 1794902400000
+      },
+      {
         "title": "CMC cuts entertainment taxes; new Gazette issued - Newswire",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSWd0QlZad2VQMWc4Q3o4WG43OW5acjRkODA0ZGRSUk1GdXVFdE0zaFJnaEJJX19EaldILU5KdnN1U0xTYUJkNVM3aGMwS1dhSXhMdDBfRTBCVlhJLTNmUXdZTlMweDY2NHFkTUZvWl92M2VlTmF4V3ZfXzNjNEc1Z25NajB3cl9EeXI0?oc=5",
         "source": "Newswire",
@@ -856,13 +863,6 @@
         "source": "Focus Gaming News",
         "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT",
         "ts": 1792134000000
-      },
-      {
-        "title": "Top 5 Entertainment News: From Gil Gerard demise to Rashmika Mandanna's Sri Lanka trip sparking bachelore - The Times of India",
-        "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxONk4yVXZiZU85TGRVTWl5M0swODUwNk9TNHRJVXhQRi1sNjlkbDktWkVNRG50MWlPVEJmaXlNcWc0aktRMmllbDJReXVFbF9MUlZKZ0hGSklVUGFVTDMzMVpFNDYzMGE3dXJLUTJGTEFsd0RTUGlIcTV4SndkY3F0NjhDRWpaSS1kWV9lOTBNUTNmYXhJOFlOTkRKZ3MwNDJhZzNNNFpQbU5MQUF6dHBMSmVxblh2cjZDZC1YM2VwbkxhT3V4bzhWN1RQcmVUa1d5bHNUYjVZc2NZcjZtS1VKM0w1QnR6ck5OT05faE1jTU5IODNYckNXQ3BpcEp0TmI3Skh5R20ycEN3cWlPRkpCckF5Z0MwdW1hVVN1dDNqODFBNURIQWZmS3dqM04zcEU5enZwamVSUUxBbzRpbzItUHg3b3NlaFFZcXVOdHMzWW0yMzJyR0Z0dllYbk7SAeICQVVfeXFMTllXOWdqNjBmaUtkSjFvUGhBckJUak1TUmJZLVd3YWFXLTVWWnFaNllaRnRLakcza1dDTE5JVUpXRGxFOVN1NkxBa28yQjBVWEVjV0ZqcmhjMFBBR2JqeDVLYk5TTVljWGNUajF5MVkwc2lLRkJNU2JJbkF0Smlkd0tpbFlQVmw0amZJNnlQXzlUWFlqQXZybGRmRncwTlhCdzI5NUQyNUZwRFJIbTRtajk5bEY2R3p5REx2YVNHNG5sODlpTXpKeEJrcTBHSVdvMS1kd1pqUzRiMlAxSHBIeGpkVUU5bEU3SkpCcHhaeFFIdFZDbzF3dDlYWmNETVVraXd3SGJpckJaTDBqaXlTNFRqMU5mQ1F4ckh1WjM4ZUNJenZMNUVzNVVhUWRJV1hoWWdWdzVqeWdyX3J2TXdYVHo3X1hsOFRUdF94OHdOUHR3RExiVFJ5MElWZVZkaEx5N0pn?oc=5",
-        "source": "The Times of India",
-        "pubDate": "Thu, 18 Dec 2025 08:00:00 GMT",
-        "ts": 1766044800000
       }
     ]
   }
